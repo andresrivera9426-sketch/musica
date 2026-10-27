@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-26T21:20-05:00",
+ "generado": "2026-10-26T22:13-05:00",
  "generos": [
   {
    "genero": "Indie folk / acústico",
@@ -453,17 +453,6 @@
    "canal": "Hillsong Worship"
   },
   {
-   "id": "E7417hTaCm4",
-   "titulo": "Ali Gatie - Is Your Heart Still In It? (Official Lyric Video)",
-   "fecha": "2026-10-23",
-   "vistas": 10362,
-   "artista": "Ali Gatie",
-   "genero": "Lo-fi / chill / sad rap",
-   "fuente": "rss",
-   "curador": false,
-   "canal": "Ali Gatie"
-  },
-  {
    "id": "xdCqmkrXwTI",
    "titulo": "pupsies - misery. (Lyrics)",
    "dias": 3,
@@ -475,17 +464,6 @@
    "fuente": "pagina",
    "curador": true,
    "canal": "7clouds"
-  },
-  {
-   "id": "GmZemySBEqQ",
-   "titulo": "Say You Don’t",
-   "fecha": "2026-10-22",
-   "vistas": 5636,
-   "artista": "Them & I",
-   "genero": "Indie folk / acústico",
-   "fuente": "rss",
-   "curador": false,
-   "canal": "Them & I - Topic"
   },
   {
    "id": "cb6UK4-bdu8",
@@ -542,35 +520,28 @@
   {
    "id": "cZyKShD0E4c",
    "titulo": "PARA LLORAR .. ROMEO Y JULIETA💔 Xion MC ft. Alfred Cave y Zckrap 2026",
+   "dias": 4,
+   "dur": 161,
    "fecha": "2026-10-22",
-   "vistas": 4103,
+   "fecha_aprox": true,
    "artista": "Xion MC",
    "genero": "Rap / hip hop en español",
-   "fuente": "rss",
+   "fuente": "pagina",
    "curador": false,
    "canal": "Xion MC"
   },
   {
-   "id": "NGrbz4lXsvY",
-   "titulo": "Ali Gatie - Let Go (Official Lyric Video)",
+   "id": "E7417hTaCm4",
+   "titulo": "Ali Gatie - Is Your Heart Still In It? (Official Lyric Video)",
+   "dias": 4,
+   "dur": 150,
    "fecha": "2026-10-22",
-   "vistas": 0,
+   "fecha_aprox": true,
    "artista": "Ali Gatie",
    "genero": "Lo-fi / chill / sad rap",
-   "fuente": "rss",
+   "fuente": "pagina",
    "curador": false,
-   "canal": null
-  },
-  {
-   "id": "52Xc0MPjTRg",
-   "titulo": "Ali Gatie - Coming Back To You (Official Lyric Video)",
-   "fecha": "2026-10-22",
-   "vistas": 0,
-   "artista": "Ali Gatie",
-   "genero": "Lo-fi / chill / sad rap",
-   "fuente": "rss",
-   "curador": false,
-   "canal": null
+   "canal": "Ali Gatie"
   },
   {
    "id": "EE9b_Y2mraE",
@@ -640,22 +611,26 @@
   {
    "id": "BXy4auhL8U4",
    "titulo": "Al2 El Aldeano - ZIPPER",
+   "dias": 9,
+   "dur": 310,
    "fecha": "2026-10-17",
-   "vistas": 310495,
+   "fecha_aprox": true,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
-   "fuente": "rss",
+   "fuente": "pagina",
    "curador": false,
    "canal": "AL2 \"El Aldeano\""
   },
   {
    "id": "TBjHG13bWGs",
    "titulo": "DILES.. QUE TE ENGAÑÉ 💔(Rap Romántico 2026) Xion MC ft. Zckrap",
+   "dias": 9,
+   "dur": 201,
    "fecha": "2026-10-17",
-   "vistas": 6800,
+   "fecha_aprox": true,
    "artista": "Xion MC",
    "genero": "Rap / hip hop en español",
-   "fuente": "rss",
+   "fuente": "pagina",
    "curador": false,
    "canal": "Xion MC"
   },
@@ -675,11 +650,13 @@
   {
    "id": "0aNSM-mnOjE",
    "titulo": "Hollow Coves - Anew (Live in São Paulo)",
+   "dias": 10,
+   "dur": 268,
    "fecha": "2026-10-16",
-   "vistas": 12080,
+   "fecha_aprox": true,
    "artista": "Hollow Coves",
    "genero": "Indie folk / acústico",
-   "fuente": "rss",
+   "fuente": "pagina",
    "curador": false,
    "canal": "Hollow Coves"
   },
@@ -687,7 +664,7 @@
    "id": "hHwhX0cSsVo",
    "titulo": "Goo Goo Dolls - Postcards From Paradise (Official Lyric Video)",
    "fecha": "2026-10-16",
-   "vistas": 110890,
+   "vistas": 111061,
    "artista": "Goo Goo Dolls",
    "genero": "Pop / rock en inglés",
    "fuente": "rss",
@@ -706,17 +683,6 @@
    "fuente": "pagina",
    "curador": false,
    "canal": "James Blunt"
-  },
-  {
-   "id": "RD_MeGXLvWs",
-   "titulo": "Ali Gatie - Crazy In Love (Official Lyric Video)",
-   "fecha": "2026-10-16",
-   "vistas": 14001,
-   "artista": "Ali Gatie",
-   "genero": "Lo-fi / chill / sad rap",
-   "fuente": "rss",
-   "curador": false,
-   "canal": "Ali Gatie"
   },
   {
    "id": "iK3_trtwLO8",
@@ -901,6 +867,19 @@
    "canal": "Sleeping At Last"
   },
   {
+   "id": "yTRYaS2HK-g",
+   "titulo": "\"Anger\" by Sleeping At Last (Lyric Video)",
+   "dias": 11,
+   "dur": 230,
+   "fecha": "2026-10-15",
+   "fecha_aprox": true,
+   "artista": "Sleeping At Last",
+   "genero": "Indie folk / acústico",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Sleeping At Last"
+  },
+  {
    "id": "Y6btakPgPss",
    "titulo": "\"Sorrow\" by Sleeping At Last (Lyric Video)",
    "dias": 11,
@@ -925,6 +904,19 @@
    "fuente": "pagina",
    "curador": false,
    "canal": "RY X"
+  },
+  {
+   "id": "RD_MeGXLvWs",
+   "titulo": "Ali Gatie - Crazy In Love (Official Lyric Video)",
+   "dias": 11,
+   "dur": 157,
+   "fecha": "2026-10-15",
+   "fecha_aprox": true,
+   "artista": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Ali Gatie"
   },
   {
    "id": "l0DjsYqyv0w",
@@ -979,6 +971,19 @@
    "canal": "Cristianos Music Oficial"
   },
   {
+   "id": "CmntIheQH04",
+   "titulo": "Al2 El Aldeano & Raymond Daniel - Looking for Air",
+   "dias": 14,
+   "dur": 222,
+   "fecha": "2026-10-12",
+   "fecha_aprox": true,
+   "artista": "Al2 El Aldeano",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "AL2 \"El Aldeano\""
+  },
+  {
    "id": "4pRN-KHcsjQ",
    "titulo": "Querida - Kevz",
    "dias": 14,
@@ -990,6 +995,19 @@
    "fuente": "pagina",
    "curador": false,
    "canal": "Kevin & Karla"
+  },
+  {
+   "id": "RcFhZ-C0I7E",
+   "titulo": "Ali Gatie - Wherever We Go ( Official Lyric Video)",
+   "dias": 14,
+   "dur": 150,
+   "fecha": "2026-10-12",
+   "fecha_aprox": true,
+   "artista": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Ali Gatie"
   },
   {
    "id": "4X-w9JXPlM4",
@@ -1029,17 +1047,6 @@
    "fuente": "pagina",
    "curador": true,
    "canal": "7clouds"
-  },
-  {
-   "id": "CmntIheQH04",
-   "titulo": "Al2 El Aldeano & Raymond Daniel - Busco Aire",
-   "fecha": "2026-10-09",
-   "vistas": 94498,
-   "artista": "Al2 El Aldeano",
-   "genero": "Rap / hip hop en español",
-   "fuente": "rss",
-   "curador": false,
-   "canal": "AL2 \"El Aldeano\""
   },
   {
    "id": "99aW38_fAPo",
@@ -1133,6 +1140,32 @@
    "canal": "James Blunt"
   },
   {
+   "id": "62aiOlL9WGk",
+   "titulo": "TUS RECUERDOS💔 (Rap Romántico 2026) Xion MC ft. Zckrap",
+   "dias": 21,
+   "dur": 163,
+   "fecha": "2026-10-05",
+   "fecha_aprox": true,
+   "artista": "Xion MC",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Xion MC"
+  },
+  {
+   "id": "Zs0SJDIj1Bo",
+   "titulo": "Ali Gatie - I Hope You're Happy (Official Lyric Video )",
+   "dias": 21,
+   "dur": 176,
+   "fecha": "2026-10-05",
+   "fecha_aprox": true,
+   "artista": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Ali Gatie"
+  },
+  {
    "id": "Tv055L7IBrQ",
    "titulo": "Medium Build - Home Depot (Lyrics)",
    "dias": 21,
@@ -1146,26 +1179,17 @@
    "canal": "IndieAir"
   },
   {
-   "id": "Zs0SJDIj1Bo",
-   "titulo": "Ali Gatie - I Hope You're Happy (Official Lyric Video )",
-   "fecha": "2026-10-02",
-   "vistas": 25185,
-   "artista": "Ali Gatie",
-   "genero": "Lo-fi / chill / sad rap",
-   "fuente": "rss",
-   "curador": false,
-   "canal": "Ali Gatie"
-  },
-  {
-   "id": "62aiOlL9WGk",
-   "titulo": "TUS RECUERDOS💔 (Rap Romántico 2026) Xion MC ft. Zckrap",
-   "fecha": "2026-10-01",
-   "vistas": 7431,
-   "artista": "Xion MC",
-   "genero": "Rap / hip hop en español",
-   "fuente": "rss",
-   "curador": false,
-   "canal": "Xion MC"
+   "id": "ctCQwxy_odI",
+   "titulo": "Dillon Havins - Hiding Place",
+   "dias": 21,
+   "dur": 227,
+   "fecha": "2026-10-05",
+   "fecha_aprox": true,
+   "artista": "alexrainbirdMusic",
+   "genero": "Indie folk / acústico",
+   "fuente": "pagina",
+   "curador": true,
+   "canal": "alexrainbirdMusic"
   },
   {
    "id": "cxl31gumtiE",
@@ -1195,12 +1219,66 @@
   },
   {
    "id": "c7F1xUhTgMM",
-   "titulo": "Al2 El Aldeano & Raymond Daniel - Agricultor",
+   "titulo": "Al2 El Aldeano & Raymond Daniel - Farmer",
+   "dias": 30,
+   "dur": 161,
    "fecha": "2026-09-26",
-   "vistas": 122284,
+   "fecha_aprox": true,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
-   "fuente": "rss",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "AL2 \"El Aldeano\""
+  },
+  {
+   "id": "9cLHZeQ6nTI",
+   "titulo": "Al2 El Aldeano & Raymond Daniel - No Turning Back",
+   "dias": 30,
+   "dur": 263,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Al2 El Aldeano",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "AL2 \"El Aldeano\""
+  },
+  {
+   "id": "JV16qDvzc40",
+   "titulo": "Al2 El Aldeano & Raymond Daniel - Colorful Moon",
+   "dias": 30,
+   "dur": 231,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Al2 El Aldeano",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "AL2 \"El Aldeano\""
+  },
+  {
+   "id": "gQvvzlwIeOA",
+   "titulo": "Al2 El Aldeano & Raymond Daniel - Badge",
+   "dias": 30,
+   "dur": 284,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Al2 El Aldeano",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "AL2 \"El Aldeano\""
+  },
+  {
+   "id": "gB4duKh6bzs",
+   "titulo": "Al2 El Aldeano & Raymond Daniel - Still Alone",
+   "dias": 30,
+   "dur": 226,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Al2 El Aldeano",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
    "curador": false,
    "canal": "AL2 \"El Aldeano\""
   },
@@ -1309,6 +1387,32 @@
    "canal": "RY X"
   },
   {
+   "id": "m57iogQU1F0",
+   "titulo": "I Let You Win - Jesús Adrián Romero (Lyrics)",
+   "dias": 30,
+   "dur": 203,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Jesús Adrián Romero",
+   "genero": "Música cristiana / worship",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Jesus Adrian Romero"
+  },
+  {
+   "id": "Qg2vgneRXHc",
+   "titulo": "Your Flag - Jesús Adrián Romero (Lyrics)",
+   "dias": 30,
+   "dur": 199,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Jesús Adrián Romero",
+   "genero": "Música cristiana / worship",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Jesus Adrian Romero"
+  },
+  {
    "id": "Vt60um09aOM",
    "titulo": "James Blunt - Weight Of It All (Visualiser)",
    "dias": 30,
@@ -1320,6 +1424,110 @@
    "fuente": "pagina",
    "curador": false,
    "canal": "James Blunt"
+  },
+  {
+   "id": "MHmg4hc-8jA",
+   "titulo": "James Blunt - Weight Of It All (Official Lyric Video)",
+   "dias": 30,
+   "dur": 226,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "James Blunt",
+   "genero": "Pop / rock en inglés",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "James Blunt"
+  },
+  {
+   "id": "gtZopVAvpJY",
+   "titulo": "Spider-Man | Canción de Peter Parker | Xion MC ft. Zckrap 2026",
+   "dias": 30,
+   "dur": 164,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Xion MC",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Xion MC"
+  },
+  {
+   "id": "7h4UJJ9weA4",
+   "titulo": "Ali Gatie - Option (Official Lyric Video)",
+   "dias": 30,
+   "dur": 219,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Ali Gatie"
+  },
+  {
+   "id": "kkKXNgII4CI",
+   "titulo": "How I Turn an Idea Into a Song",
+   "dias": 30,
+   "dur": 456,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Ali Gatie"
+  },
+  {
+   "id": "vddSei9sdNk",
+   "titulo": "Ali Gatie - Homesick (Official Lyric Video)",
+   "dias": 30,
+   "dur": 158,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Ali Gatie"
+  },
+  {
+   "id": "bUw8g2XOS_Q",
+   "titulo": "Ali Gatie - Make It Through (Official Lyric Video)",
+   "dias": 30,
+   "dur": 181,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Ali Gatie"
+  },
+  {
+   "id": "D45K77jEi-I",
+   "titulo": "Ali Gatie - Lonely (Official Lyric Video)",
+   "dias": 30,
+   "dur": 177,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Ali Gatie"
+  },
+  {
+   "id": "NOyZcSAcB0k",
+   "titulo": "Ali Gatie - Lost My Self In You (Official Lyric Video)",
+   "dias": 30,
+   "dur": 141,
+   "fecha": "2026-09-26",
+   "fecha_aprox": true,
+   "artista": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Ali Gatie"
   },
   {
    "id": "KxoyiGwQdbY",
@@ -1426,68 +1634,132 @@
    "canal": "Cristianos Music Oficial"
   },
   {
-   "id": "9cLHZeQ6nTI",
-   "titulo": "Al2 El Aldeano & Raymond Daniel - Sin Retroceder",
-   "fecha": "2026-09-18",
-   "vistas": 131971,
+   "id": "b8b7gnrdWD4",
+   "titulo": "Hollow Coves - Coastline (Live in São Paulo)",
+   "dias": 60,
+   "dur": 342,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "Hollow Coves",
+   "genero": "Indie folk / acústico",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Hollow Coves"
+  },
+  {
+   "id": "ewu5-P0Azcg",
+   "titulo": "Hollow Coves - Blessings (Live in São Paulo)",
+   "dias": 60,
+   "dur": 309,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "Hollow Coves",
+   "genero": "Indie folk / acústico",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Hollow Coves"
+  },
+  {
+   "id": "-_7I5Sl0UFo",
+   "titulo": "Hollow Coves - On the Way (Live in São Paulo)",
+   "dias": 60,
+   "dur": 400,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "Hollow Coves",
+   "genero": "Indie folk / acústico",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Hollow Coves"
+  },
+  {
+   "id": "zUUpzLVUbJo",
+   "titulo": "Al2 El Aldeano & Raymond Daniel - More Buildings",
+   "dias": 60,
+   "dur": 266,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
-   "fuente": "rss",
+   "fuente": "pagina",
    "curador": false,
    "canal": "AL2 \"El Aldeano\""
   },
   {
-   "id": "gtZopVAvpJY",
-   "titulo": "Spider-Man | Canción de Peter Parker | Xion MC ft. Zckrap 2026",
-   "fecha": "2026-09-17",
-   "vistas": 10140,
-   "artista": "Xion MC",
-   "genero": "Rap / hip hop en español",
-   "fuente": "rss",
-   "curador": false,
-   "canal": "Xion MC"
-  },
-  {
-   "id": "m57iogQU1F0",
-   "titulo": "Te Dejo Ganar - Jesús Adrián Romero (Letra)",
-   "fecha": "2026-09-15",
-   "vistas": 344217,
-   "artista": "Jesús Adrián Romero",
-   "genero": "Música cristiana / worship",
-   "fuente": "rss",
-   "curador": false,
-   "canal": "Jesus Adrian Romero"
-  },
-  {
-   "id": "JV16qDvzc40",
-   "titulo": "Al2 El Aldeano & Raymond Daniel - Luna a Color",
-   "fecha": "2026-09-11",
-   "vistas": 61803,
+   "id": "Zl_-ly7OmnY",
+   "titulo": "Al2 El Aldeano & Raymond Daniel - Destroyer",
+   "dias": 60,
+   "dur": 240,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
-   "fuente": "rss",
+   "fuente": "pagina",
    "curador": false,
    "canal": "AL2 \"El Aldeano\""
   },
   {
-   "id": "gQvvzlwIeOA",
-   "titulo": "Al2 El Aldeano & Raymond Daniel - Placa",
-   "fecha": "2026-09-04",
-   "vistas": 138336,
+   "id": "XSJZ3_rWYdA",
+   "titulo": "Al2 El Aldeano & Raymond Daniel - IN FAITH",
+   "dias": 60,
+   "dur": 182,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
-   "fuente": "rss",
+   "fuente": "pagina",
    "curador": false,
    "canal": "AL2 \"El Aldeano\""
   },
   {
-   "id": "gB4duKh6bzs",
-   "titulo": "Al2 El Aldeano & Raymond Daniel - Solo Aún",
-   "fecha": "2026-08-31",
-   "vistas": 114307,
+   "id": "3cSrL4LpFYg",
+   "titulo": "Al2 El Aldeano & Raymond Daniel - To Hell With The World V",
+   "dias": 60,
+   "dur": 217,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
-   "fuente": "rss",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "AL2 \"El Aldeano\""
+  },
+  {
+   "id": "VK3suFCX-3c",
+   "titulo": "Little Monkey - Al2 El Aldeano",
+   "dias": 60,
+   "dur": 231,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "Al2 El Aldeano",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "AL2 \"El Aldeano\""
+  },
+  {
+   "id": "2nFZT__c6LY",
+   "titulo": "Alone - Al2 El Aldeano & Raymond Daniel. #alone #hiphop #music",
+   "dias": 60,
+   "dur": 212,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "Al2 El Aldeano",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "AL2 \"El Aldeano\""
+  },
+  {
+   "id": "8qyglMVBcOM",
+   "titulo": "Whistling Through Life - Al2 El Aldeano & Raymond Daniel #whistlingthroughlife #al2elaldeano",
+   "dias": 60,
+   "dur": 259,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "Al2 El Aldeano",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
    "curador": false,
    "canal": "AL2 \"El Aldeano\""
   },
@@ -1574,6 +1846,19 @@
    "titulo": "Doxology Instrumental & Guided Scripture | Elevation Worship & Steven Furtick",
    "dias": 60,
    "dur": 233,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "Elevation Worship",
+   "genero": "Música cristiana / worship",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Elevation Worship"
+  },
+  {
+   "id": "2JZBpAo0k7Y",
+   "titulo": "Do It Again Instrumental & Guided Scripture | Elevation Worship & Steven Furtick",
+   "dias": 60,
+   "dur": 399,
    "fecha": "2026-08-27",
    "fecha_aprox": true,
    "artista": "Elevation Worship",
@@ -1778,6 +2063,19 @@
    "canal": "James Blunt"
   },
   {
+   "id": "69vlIQ7Zous",
+   "titulo": "James Blunt - I Really Want You (Official Visualiser)",
+   "dias": 60,
+   "dur": 210,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "James Blunt",
+   "genero": "Pop / rock en inglés",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "James Blunt"
+  },
+  {
    "id": "y9CrJXeSKuI",
    "titulo": "James Blunt - Give Me Some Love (Official Visualiser)",
    "dias": 60,
@@ -1854,6 +2152,58 @@
    "fuente": "pagina",
    "curador": false,
    "canal": "James Blunt"
+  },
+  {
+   "id": "ggsj8CljByQ",
+   "titulo": "AMOR CON HERIDAS 💔 (RAP ROMÁNTICO 2026) Xion MC ft. Zckrap",
+   "dias": 60,
+   "dur": 168,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "Xion MC",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Xion MC"
+  },
+  {
+   "id": "VG27-u6oLms",
+   "titulo": "La Historia Mas Triste del Mundo💔 (Rap Romántico 2026) Xion MC ft. Zckrap",
+   "dias": 60,
+   "dur": 187,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "Xion MC",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Xion MC"
+  },
+  {
+   "id": "ZDE8LqMRYMQ",
+   "titulo": "The Real Story Behind “It’s You”",
+   "dias": 60,
+   "dur": 162,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Ali Gatie"
+  },
+  {
+   "id": "qGF-ND5GIR4",
+   "titulo": "Ali Gatie - Deja Vu (Official lyric video)",
+   "dias": 60,
+   "dur": 149,
+   "fecha": "2026-08-27",
+   "fecha_aprox": true,
+   "artista": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Ali Gatie"
   },
   {
    "id": "jb_FOTIb9zY",
@@ -1934,35 +2284,15 @@
    "canal": "Cristianos Music Oficial"
   },
   {
-   "id": "A0w9ajjXZxc",
-   "titulo": "Hollow Coves - Live in São Paulo 2026 (Full Concert)",
-   "fecha": "2026-08-13",
-   "vistas": 29003,
+   "id": "-lBCYv5mHN8",
+   "titulo": "Hollow Coves - The Woods (Live in São Paulo)",
+   "dias": 90,
+   "dur": 343,
+   "fecha": "2026-07-28",
+   "fecha_aprox": true,
    "artista": "Hollow Coves",
    "genero": "Indie folk / acústico",
-   "fuente": "rss",
-   "curador": false,
-   "canal": "Hollow Coves"
-  },
-  {
-   "id": "b8b7gnrdWD4",
-   "titulo": "Hollow Coves - Coastline (Live in São Paulo)",
-   "fecha": "2026-08-07",
-   "vistas": 70300,
-   "artista": "Hollow Coves",
-   "genero": "Indie folk / acústico",
-   "fuente": "rss",
-   "curador": false,
-   "canal": "Hollow Coves"
-  },
-  {
-   "id": "ewu5-P0Azcg",
-   "titulo": "Hollow Coves - Blessings (Live in São Paulo)",
-   "fecha": "2026-08-03",
-   "vistas": 15396,
-   "artista": "Hollow Coves",
-   "genero": "Indie folk / acústico",
-   "fuente": "rss",
+   "fuente": "pagina",
    "curador": false,
    "canal": "Hollow Coves"
   },
@@ -2069,6 +2399,32 @@
    "fuente": "pagina",
    "curador": false,
    "canal": "Kevin & Karla"
+  },
+  {
+   "id": "qdCFT8k1vvE",
+   "titulo": "Jesús Adrián Romero - Submerge Me (Lyrics) #UnitedByTheCross30thAnniversary",
+   "dias": 90,
+   "dur": 241,
+   "fecha": "2026-07-28",
+   "fecha_aprox": true,
+   "artista": "Jesús Adrián Romero",
+   "genero": "Música cristiana / worship",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Jesus Adrian Romero"
+  },
+  {
+   "id": "XfXXO0UzZzM",
+   "titulo": "Jesús Adrián Romero - It All Ends (Lyrics) (Kisses On The Forehead)",
+   "dias": 90,
+   "dur": 253,
+   "fecha": "2026-07-28",
+   "fecha_aprox": true,
+   "artista": "Jesús Adrián Romero",
+   "genero": "Música cristiana / worship",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Jesus Adrian Romero"
   },
   {
    "id": "zJnS0pLCy2w",
@@ -2329,6 +2685,32 @@
    "fuente": "pagina",
    "curador": false,
    "canal": "SnowPatrolVEVO"
+  },
+  {
+   "id": "Fs4B_AIZV0I",
+   "titulo": "POR TÍMIDO TE PERDÍ 💔(Rap Romántico 2026) Xion MC ft. Zckrap",
+   "dias": 90,
+   "dur": 174,
+   "fecha": "2026-07-28",
+   "fecha_aprox": true,
+   "artista": "Xion MC",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Xion MC"
+  },
+  {
+   "id": "E9DVCFDihyc",
+   "titulo": "FUISTE TU (Versión que nunca salió)💔 (Rap Romántico 2026) Xion MC ft. Zckrap",
+   "dias": 90,
+   "dur": 189,
+   "fecha": "2026-07-28",
+   "fecha_aprox": true,
+   "artista": "Xion MC",
+   "genero": "Rap / hip hop en español",
+   "fuente": "pagina",
+   "curador": false,
+   "canal": "Xion MC"
   },
   {
    "id": "SvE4lc_ha4c",
@@ -3046,6 +3428,12 @@
    "canal": "FUERZA REGIDA"
   },
   {
+   "id": "pRpeEdMmmQ0",
+   "titulo": "Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)",
+   "pos": 8,
+   "canal": "shakiraVEVO"
+  },
+  {
    "id": "5j8fIDh1V0A",
    "titulo": "Myke Towers - TE IMAGINO (Official Music Video)",
    "pos": 9,
@@ -3356,12 +3744,6 @@
    "titulo": "Darell - Tu Peor Error [Official Video]",
    "pos": 60,
    "canal": "Darell"
-  },
-  {
-   "id": "wAjHQXrIj9o",
-   "titulo": "Bad Bunny ft. Bomba Estéreo - Ojitos Lindos (Video Oficial) | Un Verano Sin Ti",
-   "pos": 61,
-   "canal": "Bad Bunny"
   }
  ],
  "chart_semanal_co": [
@@ -3617,20 +3999,22 @@
   }
  ],
  "stats": {
-  "videos_verificados": 346,
+  "videos_verificados": 365,
   "descartados_oembed": 0,
-  "sin_verificar_por_error_red": 8,
+  "sin_verificar_por_error_red": 0,
   "novedades_por_fuente": {
-   "pagina": 146,
-   "rss": 25
+   "pagina": 189,
+   "rss": 1
   },
-  "segundos": 55.5,
+  "segundos": 13.9,
   "avisos": [
    "sin datos: Cemeteries (UCmJc--j9kQd83S0azxFnG6g)",
+   "sin datos: Them & I (UCa0PAgZ4tHl-XQXWRA8bGwg)",
    "sin datos: Rxseboy (UCx4K56ccgugBVZPxxeFhq8w)",
+   "sin datos: Tercer Cielo (UCpjVUrVVNPxFegat_FxrxCw)",
    "sin datos: Genesis Benavides (UCnQTtadDaCkoJMEa3PucE8Q)",
-   "sin datos: Porta (UCjyx5ROt2HsFf-e4Qt5LAhg)",
-   "sin datos: Tercer Cielo (UCpjVUrVVNPxFegat_FxrxCw)"
-  ]
+   "sin datos: Porta (UCjyx5ROt2HsFf-e4Qt5LAhg)"
+  ],
+  "conservadas_de_la_version_anterior": []
  }
 }
