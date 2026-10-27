@@ -1,0 +1,12 @@
+# capturas, logs y temporales
+*.png
+*.log
+__pycache__/
+_prueba*.html
+# nunca subir datos crudos de Google Takeout / historiales
+takeout/
+Takeout/
+*.zip
+*historial*
+*.html.bak
+!index.html

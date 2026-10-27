@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0d12">
+<title>Música Andrés</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="logo">♪</span> <b>Música</b> Andrés</div>
+  <nav id="tabs">
+    <button data-v="parati" class="on">Para ti</button>
+    <button data-v="novedades">Novedades</button>
+    <button data-v="tendencias">Tendencias CO</button>
+    <button data-v="favoritos">Favoritos</button>
+    <button data-v="cola">Cola <span id="qcount"></span></button>
+  </nav>
+  <input id="q" type="search" enterkeyhint="search" placeholder="Buscar cualquier canción o artista…" autocomplete="off">
+</header>
+
+<main id="main">
+  <aside id="stage">
+    <div id="playerbox"><div id="yt"></div><div id="ph">Elige una canción para empezar</div></div>
+    <div id="nowmeta"><div id="nt">—</div><div id="na"></div></div>
+  </aside>
+  <section id="view"></section>
+</main>
+
+<footer id="bar">
+  <img id="bthumb" alt="">
+  <div class="binfo"><div id="btitle">Nada sonando</div><div id="bartist"></div></div>
+  <div class="ctrls">
+    <button id="prev" title="Anterior (P)">⏮</button>
+    <button id="play" class="big" title="Play/Pausa (espacio)">▶</button>
+    <button id="next" title="Siguiente (N)">⏭</button>
+    <button id="shuf" title="Aleatorio">🔀</button>
+    <button id="fav" title="Favorito (F)">♡</button>
+    <button id="wake" title="Mantener pantalla encendida">🔆</button>
+    <button id="ytm" title="Seguir escuchando en YouTube Music (app oficial; con Premium suena en segundo plano)">↗</button>
+  </div>
+  <div class="prog"><span id="tcur">0:00</span><input id="seek" type="range" min="0" max="1000" value="0"><span id="tdur">0:00</span></div>
+  <input id="vol" type="range" min="0" max="100" value="80" title="Volumen">
+</footer>
+<div id="toast"></div>
+<script src="config.js" onerror="window.MUSICA_CONFIG={}"></script>
+<script src="busqueda.js"></script>
+<script src="app.js"></script>
+<script src="https://www.youtube.com/iframe_api"></script>
+</body>
+</html>

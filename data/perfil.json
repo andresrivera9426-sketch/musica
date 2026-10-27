@@ -1,0 +1,969 @@
+{
+ "fuente": "Google Takeout YouTube/YouTube Music (historial 12 jul – 7 oct 2026)",
+ "resumen": {
+  "eventos_historial": 1098,
+  "eventos_youtube_music": 279
+ },
+ "generos": [
+  {
+   "genero": "Indie folk / acústico",
+   "peso": 208
+  },
+  {
+   "genero": "Música cristiana / worship",
+   "peso": 105
+  },
+  {
+   "genero": "Rap / hip hop en español",
+   "peso": 38
+  },
+  {
+   "genero": "Dream pop / indie alternativo",
+   "peso": 27
+  },
+  {
+   "genero": "Lo-fi / chill / sad rap",
+   "peso": 20
+  },
+  {
+   "genero": "Pop / rock en inglés",
+   "peso": 14
+  }
+ ],
+ "artistas": [
+  {
+   "nombre": "Novo Amor",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 36,
+   "canal": "UCqSxNFz4qIZA0tEkupipvKQ",
+   "canales": [
+    "UCqSxNFz4qIZA0tEkupipvKQ",
+    "UCd8ndCH-sydKKRmftsx-lzw"
+   ]
+  },
+  {
+   "nombre": "Generación 12",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 33,
+   "canal": "UCZq1DNdEdpmuN8LRSYQoyXg",
+   "canales": [
+    "UCZq1DNdEdpmuN8LRSYQoyXg",
+    "UCJNq4kn1Q0xVpCAw0bjEbhQ"
+   ]
+  },
+  {
+   "nombre": "Hollow Coves",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 16,
+   "canal": "UCXXtcdTIu-usD7rrq1w0TAw",
+   "canales": [
+    "UCXXtcdTIu-usD7rrq1w0TAw",
+    "UCdFx6Sk-JUFmIH4LIxV9Kpg"
+   ]
+  },
+  {
+   "nombre": "Canserbero",
+   "genero": "Rap / hip hop en español",
+   "reproducciones": 15,
+   "canal": "UCSO14F6q-8T2iIFLlxEDewA",
+   "canales": [
+    "UCSO14F6q-8T2iIFLlxEDewA",
+    "UCMEBnTEWXX19tkFC8SSUU-Q",
+    "UC-Gh7ndBnNZvGRjCzlt2Ecw"
+   ]
+  },
+  {
+   "nombre": "SYML",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 14,
+   "canal": "UC1Qq0TRax_pgbnunNdQ_BpQ",
+   "canales": [
+    "UC1Qq0TRax_pgbnunNdQ_BpQ"
+   ]
+  },
+  {
+   "nombre": "Bon Iver",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 13,
+   "canal": "UCci2c90HJbY0VAS3_eLF3Wg",
+   "canales": [
+    "UCci2c90HJbY0VAS3_eLF3Wg"
+   ]
+  },
+  {
+   "nombre": "Gregory Alan Isakov",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 13,
+   "canal": "UCfVvroXVH8w4jLxFc5gNm7g",
+   "canales": [
+    "UCfVvroXVH8w4jLxFc5gNm7g",
+    "UCiLwv1oZ3MGbdZHVYoKYYUQ"
+   ]
+  },
+  {
+   "nombre": "Bedroom",
+   "genero": "Dream pop / indie alternativo",
+   "reproducciones": 13,
+   "canal": "UCjeWu_Wkmgfd8L87cuR1bww",
+   "canales": [
+    "UCjeWu_Wkmgfd8L87cuR1bww",
+    "UCsbNIycvmMqKCQrTx5X9-Kg"
+   ]
+  },
+  {
+   "nombre": "Un Corazón",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 12,
+   "canal": "UCviQBmOy6buW21sypQ06WLA",
+   "canales": [
+    "UCviQBmOy6buW21sypQ06WLA",
+    "UCmjZ4oby51INRTSHar2arNA"
+   ]
+  },
+  {
+   "nombre": "Al2 El Aldeano",
+   "genero": "Rap / hip hop en español",
+   "reproducciones": 12,
+   "canal": "UCYw09b1bNwXBickiw3k5aOw",
+   "canales": [
+    "UCYw09b1bNwXBickiw3k5aOw",
+    "UCBUWeQ-kUl272221oGSjRgw"
+   ]
+  },
+  {
+   "nombre": "Sleeping At Last",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 10,
+   "canal": "UCvUYLLON82Gx6MW62xTLVLQ",
+   "canales": [
+    "UCvUYLLON82Gx6MW62xTLVLQ"
+   ]
+  },
+  {
+   "nombre": "Lowswimmer",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 10,
+   "canal": "UCDIaU1axvtrKGVn0vrIFjeA",
+   "canales": [
+    "UCDIaU1axvtrKGVn0vrIFjeA"
+   ]
+  },
+  {
+   "nombre": "Elevation Worship",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 9,
+   "canal": "UCSf-NCzjwcnXErUBW_qeFvA",
+   "canales": [
+    "UCSf-NCzjwcnXErUBW_qeFvA"
+   ]
+  },
+  {
+   "nombre": "Gert Taberner",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 8,
+   "canal": "UCr0SGuXTs5L7J5jRDxGiQWw",
+   "canales": [
+    "UCr0SGuXTs5L7J5jRDxGiQWw"
+   ]
+  },
+  {
+   "nombre": "Them & I",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 8,
+   "canal": "UCa0PAgZ4tHl-XQXWRA8bGwg",
+   "canales": [
+    "UCa0PAgZ4tHl-XQXWRA8bGwg"
+   ]
+  },
+  {
+   "nombre": "Fer Angell",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 8,
+   "canal": "UC-t116wGC3PzC823eoeSuTw",
+   "canales": [
+    "UC-t116wGC3PzC823eoeSuTw",
+    "UCZeJiC2F95vKUwSqp7qHXhQ"
+   ]
+  },
+  {
+   "nombre": "Winter Aid",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 7,
+   "canal": "UCYrMIJLw-ApAbPSxBdJ5trA",
+   "canales": [
+    "UCYrMIJLw-ApAbPSxBdJ5trA"
+   ]
+  },
+  {
+   "nombre": "Kairo Worship",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 7,
+   "canal": "UCZ7XstiQxRYMTsknvjKwgHQ",
+   "canales": [
+    "UCZ7XstiQxRYMTsknvjKwgHQ",
+    "UCz-NPH8vSHSElmVkdZ6B9bg"
+   ]
+  },
+  {
+   "nombre": "Nanpa Básico",
+   "genero": "Rap / hip hop en español",
+   "reproducciones": 7,
+   "canal": "UC4Boh-JJrLC60ZiNTaSwAxA",
+   "canales": [
+    "UC4Boh-JJrLC60ZiNTaSwAxA",
+    "UCcleeh_qNXu3VWSgnsZb-5g"
+   ]
+  },
+  {
+   "nombre": "Powfu",
+   "genero": "Lo-fi / chill / sad rap",
+   "reproducciones": 7,
+   "canal": "UC3V9WaOQ7RdHPRsEQ9gZvDA",
+   "canales": [
+    "UC3V9WaOQ7RdHPRsEQ9gZvDA",
+    "UC809pdzoMWSNMvbAoSSvuHA"
+   ]
+  },
+  {
+   "nombre": "Hazlett",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 6,
+   "canal": "UCMl_GVBYJQZgXjYY90H---A",
+   "canales": [
+    "UCMl_GVBYJQZgXjYY90H---A"
+   ]
+  },
+  {
+   "nombre": "The Lumineers",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 6,
+   "canal": "UCxjbV_Qr9gByQm1r8FV5FCA",
+   "canales": [
+    "UCxjbV_Qr9gByQm1r8FV5FCA"
+   ]
+  },
+  {
+   "nombre": "Kodaline",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 6,
+   "canal": "UCfm1wtWNhY4Q09K0PX_h9Mw",
+   "canales": [
+    "UCfm1wtWNhY4Q09K0PX_h9Mw"
+   ]
+  },
+  {
+   "nombre": "Palace",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 6,
+   "canal": "UCBq7RQxzXo0bqK-aLuIiamQ",
+   "canales": [
+    "UCBq7RQxzXo0bqK-aLuIiamQ"
+   ]
+  },
+  {
+   "nombre": "Beach House",
+   "genero": "Dream pop / indie alternativo",
+   "reproducciones": 5,
+   "canal": "UCN-jxm11fOETNF5JrZsATCg",
+   "canales": [
+    "UCN-jxm11fOETNF5JrZsATCg"
+   ]
+  },
+  {
+   "nombre": "Cemeteries",
+   "genero": "Dream pop / indie alternativo",
+   "reproducciones": 5,
+   "canal": "UCmJc--j9kQd83S0azxFnG6g",
+   "canales": [
+    "UCmJc--j9kQd83S0azxFnG6g"
+   ]
+  },
+  {
+   "nombre": "Catalina Castaño",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 4,
+   "canal": "UCghk3yQmXtrtZ7LLrOVoClA",
+   "canales": [
+    "UCghk3yQmXtrtZ7LLrOVoClA",
+    "UCzpG3IkfdxvrPfD4ASsfBIA"
+   ]
+  },
+  {
+   "nombre": "Harry Styles",
+   "genero": "Pop / rock en inglés",
+   "reproducciones": 4,
+   "canal": "UCbOCbp5gXL8jigIBZLqMPrw",
+   "canales": [
+    "UCbOCbp5gXL8jigIBZLqMPrw",
+    "UCVacQ2t5GUZ2t_J3Ia9BynA"
+   ]
+  },
+  {
+   "nombre": "Coldplay",
+   "genero": "Pop / rock en inglés",
+   "reproducciones": 4,
+   "canal": "UCDPM_n1atn2ijUwHd0NNRQw",
+   "canales": [
+    "UCDPM_n1atn2ijUwHd0NNRQw",
+    "UCIaFw5VBEK8qaW6nRpx_qnw"
+   ]
+  },
+  {
+   "nombre": "RY X",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 3,
+   "canal": "UCGUUYg1OxfDSpfZK5K073ZA",
+   "canales": [
+    "UCGUUYg1OxfDSpfZK5K073ZA"
+   ]
+  },
+  {
+   "nombre": "Hillsong UNITED",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 3,
+   "canal": "UCsOoQeBWPnfWBYAwmO795zg",
+   "canales": [
+    "UCsOoQeBWPnfWBYAwmO795zg"
+   ]
+  },
+  {
+   "nombre": "Rxseboy",
+   "genero": "Lo-fi / chill / sad rap",
+   "reproducciones": 3,
+   "canal": "UCx4K56ccgugBVZPxxeFhq8w",
+   "canales": [
+    "UCx4K56ccgugBVZPxxeFhq8w"
+   ]
+  },
+  {
+   "nombre": "Lord Huron",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 2,
+   "canal": "UC48UiYdP4S_QuKZXSBcwawg",
+   "canales": [
+    "UC48UiYdP4S_QuKZXSBcwawg"
+   ]
+  },
+  {
+   "nombre": "Chance Peña",
+   "genero": "Indie folk / acústico",
+   "reproducciones": 2,
+   "canal": "UC4R3aq4zh0A2Vg-yFBIURTw",
+   "canales": [
+    "UC4R3aq4zh0A2Vg-yFBIURTw"
+   ]
+  },
+  {
+   "nombre": "Cigarettes After Sex",
+   "genero": "Dream pop / indie alternativo",
+   "reproducciones": 2,
+   "canal": "UCqNxhPZoLJ81i5QaK4nqn8A",
+   "canales": [
+    "UCqNxhPZoLJ81i5QaK4nqn8A"
+   ]
+  },
+  {
+   "nombre": "Lana Del Rey",
+   "genero": "Dream pop / indie alternativo",
+   "reproducciones": 2,
+   "canal": "UC3N5y6UWKJaKqoU2b_0MfTQ",
+   "canales": [
+    "UC3N5y6UWKJaKqoU2b_0MfTQ"
+   ]
+  },
+  {
+   "nombre": "Hillsong Worship",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 2,
+   "canal": "UC4q12NoPNySbVqwpw4iO5Vg",
+   "canales": [
+    "UC4q12NoPNySbVqwpw4iO5Vg"
+   ]
+  },
+  {
+   "nombre": "Kevin & Karla",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 2,
+   "canal": "UCVOzuq0ougZtYwN5fBLsvng",
+   "canales": [
+    "UCVOzuq0ougZtYwN5fBLsvng"
+   ]
+  },
+  {
+   "nombre": "Tercer Cielo",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 2,
+   "canal": "UCpjVUrVVNPxFegat_FxrxCw",
+   "canales": [
+    "UCpjVUrVVNPxFegat_FxrxCw"
+   ]
+  },
+  {
+   "nombre": "Jesús Adrián Romero",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 2,
+   "canal": "UCL0G_Et4IZSqxN7CXL8bJJQ",
+   "canales": [
+    "UCL0G_Et4IZSqxN7CXL8bJJQ"
+   ]
+  },
+  {
+   "nombre": "Gateway Worship Español",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 2,
+   "canal": "UCvZgp9cvnS3P_T7KsfrgOyg",
+   "canales": [
+    "UCvZgp9cvnS3P_T7KsfrgOyg"
+   ]
+  },
+  {
+   "nombre": "Genesis Benavides",
+   "genero": "Música cristiana / worship",
+   "reproducciones": 2,
+   "canal": "UCnQTtadDaCkoJMEa3PucE8Q",
+   "canales": [
+    "UCnQTtadDaCkoJMEa3PucE8Q"
+   ]
+  },
+  {
+   "nombre": "Porta",
+   "genero": "Rap / hip hop en español",
+   "reproducciones": 2,
+   "canal": "UCjyx5ROt2HsFf-e4Qt5LAhg",
+   "canales": [
+    "UCjyx5ROt2HsFf-e4Qt5LAhg"
+   ]
+  },
+  {
+   "nombre": "Fasetya",
+   "genero": "Lo-fi / chill / sad rap",
+   "reproducciones": 2,
+   "canal": "UCTBsi8PDf1095_67DBFXYCw",
+   "canales": [
+    "UCTBsi8PDf1095_67DBFXYCw"
+   ]
+  },
+  {
+   "nombre": "Gustixa",
+   "genero": "Lo-fi / chill / sad rap",
+   "reproducciones": 2,
+   "canal": "UCGkq4cuLYKEOb1ndtSKVORQ",
+   "canales": [
+    "UCGkq4cuLYKEOb1ndtSKVORQ"
+   ]
+  },
+  {
+   "nombre": "Snow Patrol",
+   "genero": "Pop / rock en inglés",
+   "reproducciones": 2,
+   "canal": "UCS4bqe_kRDbaKsrpqfHZ08A",
+   "canales": [
+    "UCS4bqe_kRDbaKsrpqfHZ08A"
+   ]
+  },
+  {
+   "nombre": "Goo Goo Dolls",
+   "genero": "Pop / rock en inglés",
+   "reproducciones": 2,
+   "canal": "UCiEKDhv4v0YTc-ZtpABkXZA",
+   "canales": [
+    "UCiEKDhv4v0YTc-ZtpABkXZA"
+   ]
+  },
+  {
+   "nombre": "James Blunt",
+   "genero": "Pop / rock en inglés",
+   "reproducciones": 2,
+   "canal": "UCUg8KhMXhFxJm-YQzOQ7nPw",
+   "canales": [
+    "UCUg8KhMXhFxJm-YQzOQ7nPw"
+   ]
+  },
+  {
+   "nombre": "Zafiro Rap",
+   "genero": "Rap / hip hop en español",
+   "reproducciones": 1,
+   "canal": "UCIdHK8mpK2wGMDbOUtHfX1Q",
+   "canales": [
+    "UCIdHK8mpK2wGMDbOUtHfX1Q"
+   ]
+  },
+  {
+   "nombre": "Xion MC",
+   "genero": "Rap / hip hop en español",
+   "reproducciones": 1,
+   "canal": "UCWvrIPM0vPi6QqiFCMgtA7g",
+   "canales": [
+    "UCWvrIPM0vPi6QqiFCMgtA7g"
+   ]
+  },
+  {
+   "nombre": "Ali Gatie",
+   "genero": "Lo-fi / chill / sad rap",
+   "reproducciones": 1,
+   "canal": "UCsU2Dg39gd4_N9a7icS3b3A",
+   "canales": [
+    "UCsU2Dg39gd4_N9a7icS3b3A"
+   ]
+  }
+ ],
+ "curadores": [
+  {
+   "nombre": "WE ARE CHPTRS",
+   "genero": "Indie folk / acústico",
+   "canal": "UCFbEc7F2WQ5HxnacuzTlUfQ"
+  },
+  {
+   "nombre": "IndieAir",
+   "genero": "Indie folk / acústico",
+   "canal": "UCVoraDictyd89xgZt-J2Frw"
+  },
+  {
+   "nombre": "Stumble on Tapes",
+   "genero": "Indie folk / acústico",
+   "canal": "UCyyHOsTvUNVr9qdbZuM_j1w"
+  },
+  {
+   "nombre": "alexrainbirdMusic",
+   "genero": "Indie folk / acústico",
+   "canal": "UCEi0EgWJ5m7gVBQ68a1L0TA"
+  },
+  {
+   "nombre": "cozy sounds.",
+   "genero": "Lo-fi / chill / sad rap",
+   "canal": "UCt2F-X_JagsMKJHRCpsSnCw"
+  },
+  {
+   "nombre": "7clouds",
+   "genero": "Lo-fi / chill / sad rap",
+   "canal": "UCNqFDjYTexJDET3rPDrmJKg"
+  },
+  {
+   "nombre": "Cristianos Music Oficial",
+   "genero": "Música cristiana / worship",
+   "canal": "UChNLgnIQzys6b8__nvCwzQQ"
+  }
+ ],
+ "favoritas": [
+  {
+   "id": "TWcyIpul8OE",
+   "titulo": "Bon Iver - Holocene - Official Video",
+   "artista": "Bon Iver",
+   "genero": "Indie folk / acústico",
+   "veces": 10
+  },
+  {
+   "id": "KNiGzn7dkIo",
+   "titulo": "Sweet Heat Lightning",
+   "artista": "Gregory Alan Isakov",
+   "genero": "Indie folk / acústico",
+   "veces": 9
+  },
+  {
+   "id": "OmKAn8rNbKg",
+   "titulo": "Novo Amor - Anchor (official video)",
+   "artista": "Novo Amor",
+   "genero": "Indie folk / acústico",
+   "veces": 9
+  },
+  {
+   "id": "NT0TRUYiIy8",
+   "titulo": "SYML - \"The War\" [Official Audio]",
+   "artista": "SYML",
+   "genero": "Indie folk / acústico",
+   "veces": 8
+  },
+  {
+   "id": "r1xi5HkqDH4",
+   "titulo": "Gert Taberner \"Fallen\" (Official Music Video)",
+   "artista": "Gert Taberner",
+   "genero": "Indie folk / acústico",
+   "veces": 8
+  },
+  {
+   "id": "Nypr2Da7h1w",
+   "titulo": "Novo Amor & Lowswimmer - Dancer (official audio)",
+   "artista": "Lowswimmer",
+   "genero": "Indie folk / acústico",
+   "veces": 7
+  },
+  {
+   "id": "_A0Beo0M-tQ",
+   "titulo": "Winter Aid - The Wisp Sings",
+   "artista": "Winter Aid",
+   "genero": "Indie folk / acústico",
+   "veces": 7
+  },
+  {
+   "id": "dzNvk80XY9s",
+   "titulo": "Sleeping At Last - \"Saturn\" (Official Music Video)",
+   "artista": "Sleeping At Last",
+   "genero": "Indie folk / acústico",
+   "veces": 7
+  },
+  {
+   "id": "dsez17jmyVM",
+   "titulo": "Generación 12 - Gratitud + Gracias (Ft. Rich Harding, Stefy Espinosa, Lorena Castellanos)",
+   "artista": "Generación 12",
+   "genero": "Música cristiana / worship",
+   "veces": 7
+  },
+  {
+   "id": "v4pi1LxuDHc",
+   "titulo": "The Lumineers - Sleep On The Floor (Official Video)",
+   "artista": "The Lumineers",
+   "genero": "Indie folk / acústico",
+   "veces": 6
+  },
+  {
+   "id": "1cS_i-zDdxg",
+   "titulo": "Palace - Heaven Up There",
+   "artista": "Palace",
+   "genero": "Indie folk / acústico",
+   "veces": 6
+  },
+  {
+   "id": "-7nfEMjaM1M",
+   "titulo": "Bedroom - In My Head (Official Audio)",
+   "artista": "Bedroom",
+   "genero": "Dream pop / indie alternativo",
+   "veces": 6
+  },
+  {
+   "id": "0NoCiaV7McU",
+   "titulo": "Un Corazón feat. Living - Jesucristo Basta (Versión acústica)",
+   "artista": "Un Corazón",
+   "genero": "Música cristiana / worship",
+   "veces": 6
+  },
+  {
+   "id": "0cKV8_MKsMw",
+   "titulo": "Hollow Coves - Blessings (Official Music Video)",
+   "artista": "Hollow Coves",
+   "genero": "Indie folk / acústico",
+   "veces": 6
+  },
+  {
+   "id": "j6Keg3XKKjM",
+   "titulo": "Hollow Coves - These Memories (Official Music Video)",
+   "artista": "Hollow Coves",
+   "genero": "Indie folk / acústico",
+   "veces": 6
+  },
+  {
+   "id": "utj0BFuv1-Q",
+   "titulo": "Novo Amor - Carry You (official video)",
+   "artista": "Novo Amor",
+   "genero": "Indie folk / acústico",
+   "veces": 5
+  },
+  {
+   "id": "gR3Osz_5r14",
+   "titulo": "Sodus",
+   "artista": "Cemeteries",
+   "genero": "Dream pop / indie alternativo",
+   "veces": 5
+  },
+  {
+   "id": "GAFwrXOsL68",
+   "titulo": "Space Song - Beach House (OFFICIAL AUDIO)",
+   "artista": "Beach House",
+   "genero": "Dream pop / indie alternativo",
+   "veces": 5
+  },
+  {
+   "id": "Zgn9X9IOsQo",
+   "titulo": "Hazlett - Part Time Lovers (Official Audio)",
+   "artista": "Hazlett",
+   "genero": "Indie folk / acústico",
+   "veces": 5
+  },
+  {
+   "id": "es34Nr2JovU",
+   "titulo": "Lo Harás Otra Vez (Do It Again) | Spanish | Video Oficial Con Letras | Elevation Worship",
+   "artista": "Elevation Worship",
+   "genero": "Música cristiana / worship",
+   "veces": 5
+  },
+  {
+   "id": "fb3QgRd5AnM",
+   "titulo": "Generación 12 - Encontré (Ft. Sofia Mancipe, Johan Manjarres) VIDEO OFICIAL",
+   "artista": "Generación 12",
+   "genero": "Música cristiana / worship",
+   "veces": 5
+  },
+  {
+   "id": "jGUASAxXwg4",
+   "titulo": "Kodaline - All I Want (Official Live Video)",
+   "artista": "Kodaline",
+   "genero": "Indie folk / acústico",
+   "veces": 5
+  },
+  {
+   "id": "hJA9vnxwoHU",
+   "titulo": "Hermoso Momento - Kairo Worship ( Sesión Acústica ) Live",
+   "artista": "Kairo Worship",
+   "genero": "Música cristiana / worship",
+   "veces": 4
+  },
+  {
+   "id": "f5ydCBPLT4Y",
+   "titulo": "Coastline",
+   "artista": "Hollow Coves",
+   "genero": "Indie folk / acústico",
+   "veces": 4
+  },
+  {
+   "id": "Pn-PqlB_K4M",
+   "titulo": "Generación 12 - Quiero Conocer A Jesús (Yeshua)/Nuestro Dios Feat. Sofia Mancipe I VIDEO OFICIAL",
+   "artista": "Generación 12",
+   "genero": "Música cristiana / worship",
+   "veces": 4
+  },
+  {
+   "id": "qp4uAN2NAjs",
+   "titulo": "SYML - \"Girl (Acoustic)\" [Official Audio]",
+   "artista": "SYML",
+   "genero": "Indie folk / acústico",
+   "veces": 4
+  },
+  {
+   "id": "uqt4hSpGLjc",
+   "titulo": "Keep Me",
+   "artista": "Novo Amor",
+   "genero": "Indie folk / acústico",
+   "veces": 3
+  },
+  {
+   "id": "NKRimmQkgyg",
+   "titulo": "Encontré",
+   "artista": "Generación 12",
+   "genero": "Música cristiana / worship",
+   "veces": 3
+  },
+  {
+   "id": "Y7iJgvjcg_4",
+   "titulo": "A Veces",
+   "artista": "Al2 El Aldeano",
+   "genero": "Rap / hip hop en español",
+   "veces": 3
+  },
+  {
+   "id": "uDb5qFQblmg",
+   "titulo": "Como en el Cielo (Here As In Heaven) | Spanish | Video Oficial Con Letras | Elevation Worship",
+   "artista": "Elevation Worship",
+   "genero": "Música cristiana / worship",
+   "veces": 3
+  },
+  {
+   "id": "bbokXheXhxY",
+   "titulo": "RY X - Only (Official Video)",
+   "artista": "RY X",
+   "genero": "Indie folk / acústico",
+   "veces": 3
+  },
+  {
+   "id": "j6mBVLYo2QE",
+   "titulo": "Gregory Alan Isakov - Mistakes (Official Music Video)",
+   "artista": "Gregory Alan Isakov",
+   "genero": "Indie folk / acústico",
+   "veces": 3
+  },
+  {
+   "id": "2BJ0OA0nXPY",
+   "titulo": "Océanos (Donde Mis Pies Pueden Fallar) – Hillsong UNITED",
+   "artista": "Hillsong UNITED",
+   "genero": "Música cristiana / worship",
+   "veces": 3
+  },
+  {
+   "id": "ZX9CHa5BCXE",
+   "titulo": "Nothing Lasts",
+   "artista": "Bedroom",
+   "genero": "Dream pop / indie alternativo",
+   "veces": 3
+  },
+  {
+   "id": "53NLbM9QdbM",
+   "titulo": "Novo Amor & Lowswimmer - Vantablack (official audio)",
+   "artista": "Lowswimmer",
+   "genero": "Indie folk / acústico",
+   "veces": 3
+  },
+  {
+   "id": "lZ2byiXXUhk",
+   "titulo": "One Night",
+   "artista": "Them & I",
+   "genero": "Indie folk / acústico",
+   "veces": 3
+  },
+  {
+   "id": "cD71pdObpwg",
+   "titulo": "Novo Amor - Keep Me (official audio)",
+   "artista": "Novo Amor",
+   "genero": "Indie folk / acústico",
+   "veces": 3
+  },
+  {
+   "id": "KMfL7rVAu0U",
+   "titulo": "Bon Iver - Wash. (Deluxe) - Official Video",
+   "artista": "Bon Iver",
+   "genero": "Indie folk / acústico",
+   "veces": 3
+  },
+  {
+   "id": "MACzQc6FlRM",
+   "titulo": "Novo Amor - State Lines (official audio)",
+   "artista": "Novo Amor",
+   "genero": "Indie folk / acústico",
+   "veces": 3
+  },
+  {
+   "id": "9gXsae0FQAc",
+   "titulo": "Novo Amor - Colourway (official audio)",
+   "artista": "Novo Amor",
+   "genero": "Indie folk / acústico",
+   "veces": 3
+  },
+  {
+   "id": "MGslEcmVurg",
+   "titulo": "Novo Amor - Birthplace (official video)",
+   "artista": "Novo Amor",
+   "genero": "Indie folk / acústico",
+   "veces": 3
+  },
+  {
+   "id": "tDWUkSFPiA8",
+   "titulo": "RAP TRISTE MIX 2026💔😭 Fer Angell 💔😔 DESAMOR",
+   "artista": "Fer Angell",
+   "genero": "Música cristiana / worship",
+   "veces": 2
+  },
+  {
+   "id": "JApegyYlvyY",
+   "titulo": "death bed (coffee for your head)",
+   "artista": "Powfu",
+   "genero": "Lo-fi / chill / sad rap",
+   "veces": 2
+  },
+  {
+   "id": "jJPMnTXl63E",
+   "titulo": "Powfu - death bed (coffee for your head) (Official Video) ft. beabadoobee",
+   "artista": "Powfu",
+   "genero": "Lo-fi / chill / sad rap",
+   "veces": 2
+  },
+  {
+   "id": "oHVVoe2Vj8s",
+   "titulo": "Sign of the Times",
+   "artista": "Harry Styles",
+   "genero": "Pop / rock en inglés",
+   "veces": 2
+  },
+  {
+   "id": "s_DukurFp6E",
+   "titulo": "James Blunt - You're Beautiful & Bonfire Heart (Live at The Nobel Peace Prize Concert 2014)",
+   "artista": "James Blunt",
+   "genero": "Pop / rock en inglés",
+   "veces": 2
+  },
+  {
+   "id": "qN4ooNx77u0",
+   "titulo": "Harry Styles - Sign of the Times (Official Video)",
+   "artista": "Harry Styles",
+   "genero": "Pop / rock en inglés",
+   "veces": 2
+  },
+  {
+   "id": "NdYWuo9OFAw",
+   "titulo": "Goo Goo Dolls – Iris [Official Music Video] [4K Remaster]",
+   "artista": "Goo Goo Dolls",
+   "genero": "Pop / rock en inglés",
+   "veces": 2
+  },
+  {
+   "id": "GemKqzILV4w",
+   "titulo": "Snow Patrol - Chasing Cars (Official Video)",
+   "artista": "Snow Patrol",
+   "genero": "Pop / rock en inglés",
+   "veces": 2
+  },
+  {
+   "id": "gnIZ7RMuLpU",
+   "titulo": "Coldplay - In My Place (Official 4K Video)",
+   "artista": "Coldplay",
+   "genero": "Pop / rock en inglés",
+   "veces": 2
+  },
+  {
+   "id": "9vfCGV5F7Kk",
+   "titulo": "Gratitud",
+   "artista": "Catalina Castaño",
+   "genero": "Música cristiana / worship",
+   "veces": 2
+  },
+  {
+   "id": "TdrL3QxjyVw",
+   "titulo": "Lana Del Rey - Summertime Sadness (Official Music Video)",
+   "artista": "Lana Del Rey",
+   "genero": "Dream pop / indie alternativo",
+   "veces": 2
+  },
+  {
+   "id": "YcUW7oKDUJM",
+   "titulo": "Es Épico",
+   "artista": "Canserbero",
+   "genero": "Rap / hip hop en español",
+   "veces": 2
+  },
+  {
+   "id": "LrjUQxBnT4k",
+   "titulo": "Generación 12 - Ven y Lléname Ft. Johan Manjarrés (VIDEO OFICIAL) I Musica Cristiana",
+   "artista": "Generación 12",
+   "genero": "Música cristiana / worship",
+   "veces": 2
+  },
+  {
+   "id": "6GDgPh_ilEM",
+   "titulo": "Vasijas Rotas (Sublime Gracia) - Hillsong Worship",
+   "artista": "Hillsong Worship",
+   "genero": "Música cristiana / worship",
+   "veces": 2
+  },
+  {
+   "id": "5GieRB6a57c",
+   "titulo": "Yeshua + Libertad | Catalina Castaño",
+   "artista": "Catalina Castaño",
+   "genero": "Música cristiana / worship",
+   "veces": 2
+  },
+  {
+   "id": "zUTHgUQthaA",
+   "titulo": "Un Corazón - Otra Vez (Video Oficial)",
+   "artista": "Un Corazón",
+   "genero": "Música cristiana / worship",
+   "veces": 2
+  },
+  {
+   "id": "1aokooixKIo",
+   "titulo": "Sparks",
+   "artista": "Coldplay",
+   "genero": "Pop / rock en inglés",
+   "veces": 2
+  },
+  {
+   "id": "Wma8yX5W8yU",
+   "titulo": "Chance Peña - \"In My Room\" (Official Audio)",
+   "artista": "Chance Peña",
+   "genero": "Indie folk / acústico",
+   "veces": 2
+  },
+  {
+   "id": "oQDsKAdHFao",
+   "titulo": "Sleeping At Last performs \"Turning Page\" Live (Twilight: Breaking Dawn - Part 1)",
+   "artista": "Sleeping At Last",
+   "genero": "Indie folk / acústico",
+   "veces": 2
+  }
+ ]
+}

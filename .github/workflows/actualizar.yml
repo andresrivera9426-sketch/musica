@@ -1,0 +1,42 @@
+name: Actualizar música y publicar
+on:
+  schedule:
+    - cron: "0 12 * * 1-5"   # 7:00 a. m. Bogotá, lunes a viernes
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ["data/musica.json"]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Actualizar data/musica.json
+        if: github.event_name != 'push'
+        run: python3 update.py
+      - name: Guardar cambios
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "musica-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/musica.json
+          git diff --cached --quiet || (git commit -m "Actualización diaria $(date -u +%F)" && git push)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
