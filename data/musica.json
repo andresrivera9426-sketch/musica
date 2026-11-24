@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-23T07:57-05:00",
+ "generado": "2026-11-24T07:57-05:00",
  "generos": [
   {
    "genero": "Indie folk / acústico",
@@ -336,10 +336,21 @@
  ],
  "novedades": [
   {
+   "id": "k_hn0lOdd7g",
+   "titulo": "Hollow Coves x Greenpeace - Coastline (Save Scott Reef)",
+   "fecha": "2026-11-24",
+   "vistas": 6564,
+   "artista": "Hollow Coves",
+   "genero": "Indie folk / acústico",
+   "fuente": "rss",
+   "curador": false,
+   "canal": "Hollow Coves"
+  },
+  {
    "id": "GWfuorNxXkA",
    "titulo": "Praise The Lord Hallelujah Amen - Song Story | Hillsong Worship",
    "fecha": "2026-11-23",
-   "vistas": 507,
+   "vistas": 10985,
    "artista": "Hillsong Worship",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -347,10 +358,10 @@
    "canal": "Hillsong Worship"
   },
   {
-   "id": "uYZxYPoOC5k",
-   "titulo": "Nambyar - Nomad",
+   "id": "es-DP3nDBg8",
+   "titulo": "Winter 24/7 Radio ❄️ chill acoustic/indie folk music for work and relax • alexrainbirdRadio",
    "fecha": "2026-11-23",
-   "vistas": 166,
+   "vistas": 5305,
    "artista": "alexrainbirdMusic",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -358,10 +369,32 @@
    "canal": "alexrainbirdMusic"
   },
   {
+   "id": "uYZxYPoOC5k",
+   "titulo": "Nambyar - Nomad",
+   "fecha": "2026-11-23",
+   "vistas": 3640,
+   "artista": "alexrainbirdMusic",
+   "genero": "Indie folk / acústico",
+   "fuente": "rss",
+   "curador": true,
+   "canal": "alexrainbirdMusic"
+  },
+  {
+   "id": "_9sVFXRqAOc",
+   "titulo": "Rex Orange County - Hannah Montana (Lyrics)",
+   "fecha": "2026-11-23",
+   "vistas": 38889,
+   "artista": "7clouds",
+   "genero": "Lo-fi / chill / sad rap",
+   "fuente": "rss",
+   "curador": true,
+   "canal": "7clouds"
+  },
+  {
    "id": "AlI4hffIHAk",
    "titulo": "Ruby Morgan - effortlessly (Lyrics)",
    "fecha": "2026-11-22",
-   "vistas": 3670,
+   "vistas": 4348,
    "artista": "IndieAir",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -372,7 +405,7 @@
    "id": "L2fD5TIlhUo",
    "titulo": "Taylor Swift - Patient Zero (Lyrics)",
    "fecha": "2026-11-22",
-   "vistas": 45008,
+   "vistas": 78755,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -383,7 +416,7 @@
    "id": "Fz0q8evZj64",
    "titulo": "jordin sparks - tattoo ( slowed + reverb )",
    "fecha": "2026-11-21",
-   "vistas": 152,
+   "vistas": 184,
    "artista": "cozy sounds.",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -394,7 +427,7 @@
    "id": "_5KLn99WKTI",
    "titulo": "Dilruba Dilnasheen - Rito Riba (Lyrics)",
    "fecha": "2026-11-21",
-   "vistas": 842050,
+   "vistas": 1279167,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -405,7 +438,7 @@
    "id": "fBCRYZnh5qE",
    "titulo": "SYML - \"Hallelujah\" (Cover) - Live from Soundcheck",
    "fecha": "2026-11-20",
-   "vistas": 7013,
+   "vistas": 7894,
    "artista": "SYML",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -416,7 +449,7 @@
    "id": "-rJrIgbMe-I",
    "titulo": "Al2 El Aldeano & Dj Figu - HipHop Con100cia #52",
    "fecha": "2026-11-20",
-   "vistas": 68246,
+   "vistas": 77160,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -427,7 +460,7 @@
    "id": "TEqT0IgijWI",
    "titulo": "Nanpa Básico, Luis Alfonso - Se te hizo tarde (Adelanto)",
    "fecha": "2026-11-20",
-   "vistas": 61113,
+   "vistas": 69339,
    "artista": "Nanpa Básico",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -438,7 +471,7 @@
    "id": "Q0fPk6ZfzZE",
    "titulo": "Why Your Chorus Sounds Thin (And How to Fix It)",
    "fecha": "2026-11-20",
-   "vistas": 770,
+   "vistas": 850,
    "artista": "WE ARE CHPTRS",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -449,7 +482,7 @@
    "id": "1agsmM1TWqY",
    "titulo": "Sink Or Swim - Instrumental",
    "fecha": "2026-11-20",
-   "vistas": 586,
+   "vistas": 660,
    "artista": "WE ARE CHPTRS",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -460,7 +493,7 @@
    "id": "nUjyJDmQ1Nw",
    "titulo": "Sink Or Swim",
    "fecha": "2026-11-20",
-   "vistas": 3137,
+   "vistas": 3633,
    "artista": "WE ARE CHPTRS",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -471,7 +504,7 @@
    "id": "avG00iein5Y",
    "titulo": "LANY - Stuck (Lyrics)",
    "fecha": "2026-11-20",
-   "vistas": 393738,
+   "vistas": 619844,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -482,7 +515,7 @@
    "id": "YkQ2wkiJEaE",
    "titulo": "Shaggy - Angel (Lyrics) ft. Rayvon",
    "fecha": "2026-11-19",
-   "vistas": 322440,
+   "vistas": 336905,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -493,7 +526,7 @@
    "id": "rEwfqDbU74w",
    "titulo": "Indie Christmas 2026 🎄 • A Festive Pop/Rock Playlist",
    "fecha": "2026-11-18",
-   "vistas": 22162,
+   "vistas": 25089,
    "artista": "alexrainbirdMusic",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -504,7 +537,7 @@
    "id": "4PGt9yyYvI4",
    "titulo": "K/DA - FIRESTARTER (Lyrics) ft. i-dle, Mimi Webb, Sophie Powers",
    "fecha": "2026-11-18",
-   "vistas": 60402,
+   "vistas": 67533,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -515,7 +548,7 @@
    "id": "-qatpLQ6RTc",
    "titulo": "Whitney Houston - I'm Every Woman (Lyrics)",
    "fecha": "2026-11-17",
-   "vistas": 56719,
+   "vistas": 59621,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -526,7 +559,7 @@
    "id": "HGFlSDHNMis",
    "titulo": "Lana Del Rey - White Feather Hawk Tail Deer Hunter (Lyrics)",
    "fecha": "2026-11-16",
-   "vistas": 48258,
+   "vistas": 48933,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -537,7 +570,7 @@
    "id": "ANBErj6wuW0",
    "titulo": "Lil Peep & XXXTENTACION - Falling Down (Lyrics)",
    "fecha": "2026-11-15",
-   "vistas": 107654,
+   "vistas": 111847,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -548,7 +581,7 @@
    "id": "10nM_vnVk9U",
    "titulo": "Timeflies - Undress Rehearsal (Lyrics)",
    "fecha": "2026-11-14",
-   "vistas": 204308,
+   "vistas": 214883,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -559,7 +592,7 @@
    "id": "SUMGtp2gnBk",
    "titulo": "Flood - Song Story | Hillsong Worship",
    "fecha": "2026-11-13",
-   "vistas": 22376,
+   "vistas": 22703,
    "artista": "Hillsong Worship",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -570,7 +603,7 @@
    "id": "yt8rPSEDZ2Y",
    "titulo": "Indie Folk Compilation • Winter 2026 ❄️ (new discoveries | 3-hour playlist)",
    "fecha": "2026-11-13",
-   "vistas": 80230,
+   "vistas": 85008,
    "artista": "alexrainbirdMusic",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -581,7 +614,7 @@
    "id": "0bD7snOB-sI",
    "titulo": "nissi, 25Hzz - Wyw my sweetie #JerseyClub (Slowed)",
    "fecha": "2026-11-13",
-   "vistas": 474329,
+   "vistas": 485995,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -592,7 +625,7 @@
    "id": "V_efFjrnsk4",
    "titulo": "CARTA DE DESPEDIDA 💔(Rap Romántico 2027) Xion MC ft. Doedo, Zckrap y Don CH",
    "fecha": "2026-11-12",
-   "vistas": 9494,
+   "vistas": 9757,
    "artista": "Xion MC",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -603,7 +636,7 @@
    "id": "RZjo35CIAYM",
    "titulo": "GEHLEE - Closer (Lyrics)",
    "fecha": "2026-11-12",
-   "vistas": 414025,
+   "vistas": 420665,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -614,7 +647,7 @@
    "id": "KCfW7juhzEY",
    "titulo": "James Blunt - Hey, People (Official Visualiser)",
    "fecha": "2026-11-11",
-   "vistas": 367459,
+   "vistas": 376752,
    "artista": "James Blunt",
    "genero": "Pop / rock en inglés",
    "fuente": "rss",
@@ -625,7 +658,7 @@
    "id": "P5du60V7H1k",
    "titulo": "Heath Lancaster - sellotape",
    "fecha": "2026-11-11",
-   "vistas": 7840,
+   "vistas": 8101,
    "artista": "alexrainbirdMusic",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -636,7 +669,7 @@
    "id": "56TKiyoOgM8",
    "titulo": "SIENNA SPIRO - MAYBE. (Lyrics)",
    "fecha": "2026-11-11",
-   "vistas": 100545,
+   "vistas": 102248,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -647,7 +680,7 @@
    "id": "wSNgLyO8Xuo",
    "titulo": "RY X - Lay (Official Film)",
    "fecha": "2026-11-10",
-   "vistas": 211017,
+   "vistas": 227244,
    "artista": "RY X",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -658,7 +691,7 @@
    "id": "AjGTxaOZ-vA",
    "titulo": "Tim Sooley - Symphony (Lyrics) [7clouds Release]",
    "fecha": "2026-11-10",
-   "vistas": 85769,
+   "vistas": 86574,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -669,7 +702,7 @@
    "id": "UjEGypJHAGU",
    "titulo": "James Blunt - 'Circles' (Live on The Graham Norton Show)",
    "fecha": "2026-11-09",
-   "vistas": 200998,
+   "vistas": 204104,
    "artista": "James Blunt",
    "genero": "Pop / rock en inglés",
    "fuente": "rss",
@@ -680,18 +713,7 @@
    "id": "3pxy27oD3ZA",
    "titulo": "REO Speedwagon - In My Dreams (Lyrics)",
    "fecha": "2026-11-09",
-   "vistas": 212493,
-   "artista": "7clouds",
-   "genero": "Lo-fi / chill / sad rap",
-   "fuente": "rss",
-   "curador": true,
-   "canal": "7clouds"
-  },
-  {
-   "id": "YO0BqoimDqA",
-   "titulo": "Zara Larsson - Blue Moon (Lyrics)",
-   "fecha": "2026-11-08",
-   "vistas": 120131,
+   "vistas": 217072,
    "artista": "7clouds",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -702,7 +724,7 @@
    "id": "G9pZYQ2hpEw",
    "titulo": "chris brown - with you ( slowed + reverb )",
    "fecha": "2026-11-07",
-   "vistas": 385,
+   "vistas": 396,
    "artista": "cozy sounds.",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -713,7 +735,7 @@
    "id": "QDoY7pQMTPA",
    "titulo": "SYML & Judah Earle - \"Sand Drawing / Shifting Places\" [Official Audio]",
    "fecha": "2026-11-06",
-   "vistas": 123202,
+   "vistas": 127767,
    "artista": "SYML",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -724,7 +746,7 @@
    "id": "k72ZyjxAf6Q",
    "titulo": "BoomBarDeo 2 - Al2 El Aldeano & Raymond Daniel (Video Oficial)",
    "fecha": "2026-11-06",
-   "vistas": 233335,
+   "vistas": 237554,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -735,7 +757,7 @@
    "id": "uYehuRWzLcw",
    "titulo": "Goo Goo Dolls - Rough Boys (Official Lyric Video)",
    "fecha": "2026-11-06",
-   "vistas": 24948,
+   "vistas": 25391,
    "artista": "Goo Goo Dolls",
    "genero": "Pop / rock en inglés",
    "fuente": "rss",
@@ -746,7 +768,7 @@
    "id": "52Xc0MPjTRg",
    "titulo": "Ali Gatie - Coming Back To You (Official Lyric Video)",
    "fecha": "2026-11-06",
-   "vistas": 18231,
+   "vistas": 18961,
    "artista": "Ali Gatie",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -757,7 +779,7 @@
    "id": "GQaj35DU6pY",
    "titulo": "Whym - The Good Life",
    "fecha": "2026-11-06",
-   "vistas": 10147,
+   "vistas": 10396,
    "artista": "alexrainbirdMusic",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -768,7 +790,7 @@
    "id": "X-7qMDpy0Uw",
    "titulo": "Ben Kessler - Cursive (Lyrics)",
    "fecha": "2026-11-05",
-   "vistas": 4896,
+   "vistas": 4958,
    "artista": "IndieAir",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -779,7 +801,7 @@
    "id": "c4oXaH3lQnI",
    "titulo": "Hollow Coves - Purple (Live in São Paulo)",
    "fecha": "2026-11-04",
-   "vistas": 9322,
+   "vistas": 9524,
    "artista": "Hollow Coves",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -790,7 +812,7 @@
    "id": "cjWXFp5yOgE",
    "titulo": "How I Built a Sea of Vocals in ProTools (without using A.I)",
    "fecha": "2026-11-03",
-   "vistas": 811,
+   "vistas": 812,
    "artista": "WE ARE CHPTRS",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -801,7 +823,7 @@
    "id": "2CA7rUb9Ev8",
    "titulo": "Indie/Rock/Alternative Compilation • November 2026 🍁 (new discoveries | 2-hour playlist)",
    "fecha": "2026-11-03",
-   "vistas": 51141,
+   "vistas": 52129,
    "artista": "alexrainbirdMusic",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -812,7 +834,7 @@
    "id": "27rYVS3A8uk",
    "titulo": "Nanpa Básico, Kapo, SOG - Cóbrame tú (Letra/Lyrics)",
    "fecha": "2026-11-01",
-   "vistas": 36640,
+   "vistas": 37637,
    "artista": "Nanpa Básico",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -823,7 +845,7 @@
    "id": "-9K7elEh9mc",
    "titulo": "Hermoso Momento + Océanos | Catalina Castaño",
    "fecha": "2026-10-30",
-   "vistas": 11384,
+   "vistas": 11603,
    "artista": "Catalina Castaño",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -834,7 +856,7 @@
    "id": "NGrbz4lXsvY",
    "titulo": "Ali Gatie - Let Go (Official Lyric Video)",
    "fecha": "2026-10-30",
-   "vistas": 20179,
+   "vistas": 20581,
    "artista": "Ali Gatie",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -845,7 +867,7 @@
    "id": "upazXrKWWI0",
    "titulo": "Indie/Pop/Folk Compilation • November 2026 🧣 (new discoveries | 2.5-hour playlist)",
    "fecha": "2026-10-30",
-   "vistas": 106250,
+   "vistas": 109222,
    "artista": "alexrainbirdMusic",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -856,7 +878,7 @@
    "id": "7D_9H_MQm8k",
    "titulo": "Quisiera No Haberte Conocido💔 (Rap Romántico 2026) Xion MC ft. Zckrap",
    "fecha": "2026-10-29",
-   "vistas": 6801,
+   "vistas": 6860,
    "artista": "Xion MC",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -867,7 +889,7 @@
    "id": "fL3w-PsFjqE",
    "titulo": "Hollow Coves - Moments (Live in São Paulo)",
    "fecha": "2026-10-28",
-   "vistas": 15289,
+   "vistas": 15400,
    "artista": "Hollow Coves",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -878,7 +900,7 @@
    "id": "yfR3iS8zA-Y",
    "titulo": "Joshua Slone - Are We Ever Gonna Work Out, Baby (Lyrics)",
    "fecha": "2026-10-28",
-   "vistas": 8143,
+   "vistas": 8234,
    "artista": "IndieAir",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -889,7 +911,7 @@
    "id": "j6OkcPtKs50",
    "titulo": "figuers & Embleton - low",
    "fecha": "2026-10-28",
-   "vistas": 40388,
+   "vistas": 40864,
    "artista": "alexrainbirdMusic",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -900,7 +922,7 @@
    "id": "M4qX5wzx-wY",
    "titulo": "Harry Styles - Coming Up Roses (Official Video)",
    "fecha": "2026-10-26",
-   "vistas": 17143517,
+   "vistas": 17446625,
    "artista": "Harry Styles",
    "genero": "Pop / rock en inglés",
    "fuente": "rss",
@@ -911,7 +933,7 @@
    "id": "nIDTxtK3beo",
    "titulo": "Sara Lindsay - In California (feat. Daniel Blake)",
    "fecha": "2026-10-26",
-   "vistas": 8063,
+   "vistas": 8096,
    "artista": "alexrainbirdMusic",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -922,7 +944,7 @@
    "id": "f3I4h8GI4yo",
    "titulo": "usher - hey daddy (daddy's home) ( slowed + reverb )",
    "fecha": "2026-10-24",
-   "vistas": 645,
+   "vistas": 656,
    "artista": "cozy sounds.",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -933,7 +955,7 @@
    "id": "cb6UK4-bdu8",
    "titulo": "Nanpa Básico, Kapo, SOG - Cóbrame tú (Video Oficial)",
    "fecha": "2026-10-23",
-   "vistas": 1083393,
+   "vistas": 1097701,
    "artista": "Nanpa Básico",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -941,21 +963,10 @@
    "canal": "NanpaBasicoVEVO"
   },
   {
-   "id": "t8C234l7gas",
-   "titulo": "Praise The Lord Hallelujah Amen - Lyric Video | Hillsong Worship",
-   "fecha": "2026-10-23",
-   "vistas": 62706,
-   "artista": "Hillsong Worship",
-   "genero": "Música cristiana / worship",
-   "fuente": "rss",
-   "curador": false,
-   "canal": "Hillsong Worship"
-  },
-  {
    "id": "E7417hTaCm4",
    "titulo": "Ali Gatie - Is Your Heart Still In It? (Official Lyric Video)",
    "fecha": "2026-10-23",
-   "vistas": 26137,
+   "vistas": 26411,
    "artista": "Ali Gatie",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -966,7 +977,7 @@
    "id": "8tI_u1UAlyo",
    "titulo": "Nanpa Básico, Kapo, SOG - Cóbrame tú (Adelanto)",
    "fecha": "2026-10-22",
-   "vistas": 22441,
+   "vistas": 22499,
    "artista": "Nanpa Básico",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -977,7 +988,7 @@
    "id": "cZyKShD0E4c",
    "titulo": "PARA LLORAR .. ROMEO Y JULIETA💔 Xion MC ft. Alfred Cave y Zckrap 2026",
    "fecha": "2026-10-22",
-   "vistas": 6808,
+   "vistas": 6852,
    "artista": "Xion MC",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -988,7 +999,7 @@
    "id": "BXy4auhL8U4",
    "titulo": "Al2 El Aldeano - ZIPPER",
    "fecha": "2026-10-17",
-   "vistas": 437878,
+   "vistas": 440097,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -999,7 +1010,7 @@
    "id": "0aNSM-mnOjE",
    "titulo": "Hollow Coves - Anew (Live in São Paulo)",
    "fecha": "2026-10-16",
-   "vistas": 15113,
+   "vistas": 15184,
    "artista": "Hollow Coves",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1010,7 +1021,7 @@
    "id": "RD_MeGXLvWs",
    "titulo": "Ali Gatie - Crazy In Love (Official Lyric Video)",
    "fecha": "2026-10-16",
-   "vistas": 20663,
+   "vistas": 20899,
    "artista": "Ali Gatie",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -1021,7 +1032,7 @@
    "id": "cOpZ-uuJO8M",
    "titulo": "\"Nine\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 8317,
+   "vistas": 8355,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1032,7 +1043,7 @@
    "id": "FJNVfkAKEPc",
    "titulo": "\"Eight\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 6583,
+   "vistas": 6599,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1043,7 +1054,7 @@
    "id": "MN-e0Y99mX0",
    "titulo": "\"Seven\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 3906,
+   "vistas": 3917,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1054,7 +1065,7 @@
    "id": "UzSt567cRN8",
    "titulo": "\"Six\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 4432,
+   "vistas": 4440,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1065,7 +1076,7 @@
    "id": "yPiS0EVyIlM",
    "titulo": "\"Five\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 5221,
+   "vistas": 5231,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1076,7 +1087,7 @@
    "id": "G7FgupPbCWU",
    "titulo": "\"Four\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 3905,
+   "vistas": 3916,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1087,7 +1098,7 @@
    "id": "FU7TooeehbY",
    "titulo": "\"Three\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 3524,
+   "vistas": 3534,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1098,7 +1109,7 @@
    "id": "9Qa4fWTWV6E",
    "titulo": "\"Two\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 4144,
+   "vistas": 4157,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1109,7 +1120,7 @@
    "id": "yIQFB3C2Y5w",
    "titulo": "\"Mind\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 3550,
+   "vistas": 3577,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1120,7 +1131,7 @@
    "id": "jdar9hbzBcM",
    "titulo": "\"One\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 4373,
+   "vistas": 4378,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1131,7 +1142,7 @@
    "id": "bBKZtJSZYpM",
    "titulo": "\"Heart\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 6284,
+   "vistas": 6364,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1142,7 +1153,7 @@
    "id": "ocOyb2u8GOM",
    "titulo": "\"Body\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 3251,
+   "vistas": 3260,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1153,7 +1164,7 @@
    "id": "_sX7z8IMCjI",
    "titulo": "\"Fear\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 3626,
+   "vistas": 3656,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1164,7 +1175,7 @@
    "id": "yTRYaS2HK-g",
    "titulo": "\"Anger\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 4913,
+   "vistas": 4975,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1175,7 +1186,7 @@
    "id": "Y6btakPgPss",
    "titulo": "\"Sorrow\" by Sleeping At Last (Lyric Video)",
    "fecha": "2026-10-15",
-   "vistas": 6574,
+   "vistas": 6658,
    "artista": "Sleeping At Last",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1186,7 +1197,7 @@
    "id": "pwWnl0gBKt8",
    "titulo": "RY X - Holy Water (Official Music Video)",
    "fecha": "2026-10-15",
-   "vistas": 296435,
+   "vistas": 297412,
    "artista": "RY X",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1197,7 +1208,7 @@
    "id": "5SyzAvKSwhQ",
    "titulo": "Revela A Cristo - Isaac Salinas (Acústico) | Letra",
    "fecha": "2026-10-13",
-   "vistas": 532,
+   "vistas": 539,
    "artista": "Cristianos Music Oficial",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -1208,7 +1219,7 @@
    "id": "4pRN-KHcsjQ",
    "titulo": "Querida - Kevz",
    "fecha": "2026-10-10",
-   "vistas": 87264,
+   "vistas": 87833,
    "artista": "Kevin & Karla",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -1219,7 +1230,7 @@
    "id": "Bn4N20A-UD8",
    "titulo": "usher - my boo ft. alicia keys ( slowed + reverb )",
    "fecha": "2026-10-10",
-   "vistas": 325,
+   "vistas": 327,
    "artista": "cozy sounds.",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -1230,7 +1241,7 @@
    "id": "CmntIheQH04",
    "titulo": "Al2 El Aldeano & Raymond Daniel - Busco Aire",
    "fecha": "2026-10-09",
-   "vistas": 123889,
+   "vistas": 124600,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -1241,7 +1252,7 @@
    "id": "Tv055L7IBrQ",
    "titulo": "Medium Build - Home Depot (Lyrics)",
    "fecha": "2026-10-04",
-   "vistas": 10669,
+   "vistas": 10721,
    "artista": "IndieAir",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1252,7 +1263,7 @@
    "id": "zBv9788Dx5M",
    "titulo": "Nanpa Básico, SOG - No me morí (Letra/Lyrics)",
    "fecha": "2026-10-02",
-   "vistas": 107099,
+   "vistas": 108238,
    "artista": "Nanpa Básico",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -1263,7 +1274,7 @@
    "id": "8R6vwDJ3lss",
    "titulo": "Kodaline - \"All I'll Ever Need\" (Official Music Video)",
    "fecha": "2026-10-02",
-   "vistas": 53322,
+   "vistas": 53816,
    "artista": "Kodaline",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1274,7 +1285,7 @@
    "id": "99aW38_fAPo",
    "titulo": "Novo Amor & Yvette Young - black33 (cabin version)",
    "fecha": "2026-09-30",
-   "vistas": 25528,
+   "vistas": 25626,
    "artista": "Novo Amor",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1285,7 +1296,7 @@
    "id": "jzk7c1Uqt2I",
    "titulo": "Bon Iver - 22, A Million Supercut",
    "fecha": "2026-09-30",
-   "vistas": 164322,
+   "vistas": 164620,
    "artista": "Bon Iver",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1296,7 +1307,7 @@
    "id": "O2kTTI5b0Vk",
    "titulo": "Ah, Jesús (spanish version) - Kevz",
    "fecha": "2026-09-30",
-   "vistas": 143010,
+   "vistas": 143888,
    "artista": "Kevin & Karla",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -1307,7 +1318,7 @@
    "id": "c7F1xUhTgMM",
    "titulo": "Al2 El Aldeano & Raymond Daniel - Agricultor",
    "fecha": "2026-09-26",
-   "vistas": 135196,
+   "vistas": 135571,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -1318,7 +1329,7 @@
    "id": "1GAShB5wiFA",
    "titulo": "sean kingston - beautiful girls ( slowed + reverb )",
    "fecha": "2026-09-26",
-   "vistas": 734,
+   "vistas": 739,
    "artista": "cozy sounds.",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -1329,7 +1340,7 @@
    "id": "z-8AI8Ic1_M",
    "titulo": "Nanpa Básico, SOG - No me morí (Video Oficial)",
    "fecha": "2026-09-25",
-   "vistas": 4358543,
+   "vistas": 4427544,
    "artista": "Nanpa Básico",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -1340,7 +1351,7 @@
    "id": "sv0ZKfLPAjs",
    "titulo": "Nanpa Básico, SOG - No me morí (Adelanto)",
    "fecha": "2026-09-23",
-   "vistas": 44150,
+   "vistas": 44180,
    "artista": "Nanpa Básico",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -1351,7 +1362,7 @@
    "id": "9cLHZeQ6nTI",
    "titulo": "Al2 El Aldeano & Raymond Daniel - Sin Retroceder",
    "fecha": "2026-09-18",
-   "vistas": 149760,
+   "vistas": 150246,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -1362,7 +1373,7 @@
    "id": "svVNA2qWVIs",
    "titulo": "Beach House - April Suzanne (Official Visualizer)",
    "fecha": "2026-09-16",
-   "vistas": 168411,
+   "vistas": 168761,
    "artista": "Beach House",
    "genero": "Dream pop / indie alternativo",
    "fuente": "rss",
@@ -1373,7 +1384,7 @@
    "id": "XzW45ReNq9Y",
    "titulo": "Hazlett - Old Salt (Official Lyric Video)",
    "fecha": "2026-09-14",
-   "vistas": 234938,
+   "vistas": 241188,
    "artista": "Hazlett",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1384,7 +1395,7 @@
    "id": "OZOTtS8Y6EE",
    "titulo": "Volvamos Al Inicio - Enoc Parra (Espontáneo) | Letra",
    "fecha": "2026-09-13",
-   "vistas": 1198,
+   "vistas": 1203,
    "artista": "Cristianos Music Oficial",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -1395,7 +1406,7 @@
    "id": "Y3em1kFGziE",
    "titulo": "earth, wind, & fire - september ( slowed + reverb )",
    "fecha": "2026-09-12",
-   "vistas": 2007,
+   "vistas": 2018,
    "artista": "cozy sounds.",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -1406,7 +1417,7 @@
    "id": "JV16qDvzc40",
    "titulo": "Al2 El Aldeano & Raymond Daniel - Luna a Color",
    "fecha": "2026-09-11",
-   "vistas": 65792,
+   "vistas": 65921,
    "artista": "Al2 El Aldeano",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -1417,7 +1428,7 @@
    "id": "Y1QJooEzWzc",
    "titulo": "Nanpa Básico, Steve Aoki - Mi amor (Letra/Lyrics)",
    "fecha": "2026-09-11",
-   "vistas": 30420,
+   "vistas": 30504,
    "artista": "Nanpa Básico",
    "genero": "Rap / hip hop en español",
    "fuente": "rss",
@@ -1428,7 +1439,7 @@
    "id": "lcsemGJ-Fm8",
    "titulo": "RY X - Holy Water (Official Audio)",
    "fecha": "2026-09-09",
-   "vistas": 112224,
+   "vistas": 112375,
    "artista": "RY X",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1439,7 +1450,7 @@
    "id": "cxl31gumtiE",
    "titulo": "Novo Amor & Yvette Young - black33 (official video)",
    "fecha": "2026-09-08",
-   "vistas": 272083,
+   "vistas": 272379,
    "artista": "Novo Amor",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1450,7 +1461,7 @@
    "id": "hKRME1LuEwg",
    "titulo": "Tú y Solo Tú + Espontáneo | Catalina Castaño",
    "fecha": "2026-09-08",
-   "vistas": 22502,
+   "vistas": 22562,
    "artista": "Catalina Castaño",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -1461,7 +1472,7 @@
    "id": "bui_PF6D7eQ",
    "titulo": "Kodaline - Vultures (Official Music Video)",
    "fecha": "2026-09-04",
-   "vistas": 217195,
+   "vistas": 217647,
    "artista": "Kodaline",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1472,7 +1483,7 @@
    "id": "P1CHgj4OJoY",
    "titulo": "Viene El Mesías - Mayo Music | Letra",
    "fecha": "2026-09-04",
-   "vistas": 35796,
+   "vistas": 37089,
    "artista": "Cristianos Music Oficial",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -1483,7 +1494,7 @@
    "id": "53kxqplJzGU",
    "titulo": "sean kingston, justin bieber - eenie meenie ( slowed + reverb )",
    "fecha": "2026-08-29",
-   "vistas": 6086,
+   "vistas": 6127,
    "artista": "cozy sounds.",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -1494,7 +1505,7 @@
    "id": "_6u2BsYNmpU",
    "titulo": "Voy Cantando - Conquistando Fronteras | Letra",
    "fecha": "2026-08-26",
-   "vistas": 745,
+   "vistas": 758,
    "artista": "Cristianos Music Oficial",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -1505,7 +1516,7 @@
    "id": "S02BvZ3U8ro",
    "titulo": "Chris James - Damn Good Life (Lyrics)",
    "fecha": "2026-08-19",
-   "vistas": 16630,
+   "vistas": 16674,
    "artista": "IndieAir",
    "genero": "Indie folk / acústico",
    "fuente": "rss",
@@ -1516,7 +1527,7 @@
    "id": "RXKYNp3TMro",
    "titulo": "Ah, Jesús (spanish version) - Kevz (Letra)",
    "fecha": "2026-08-18",
-   "vistas": 204858,
+   "vistas": 205645,
    "artista": "Kevin & Karla",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -1527,7 +1538,7 @@
    "id": "J6f1wfLlnlM",
    "titulo": "r. kelly - ignition remix ( slowed + reverb )",
    "fecha": "2026-08-15",
-   "vistas": 1508,
+   "vistas": 1519,
    "artista": "cozy sounds.",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -1538,7 +1549,7 @@
    "id": "KX_Q6r7QHuk",
    "titulo": "Carta de Amor | Catalina Castaño ft. Miguel Ibañez",
    "fecha": "2026-08-14",
-   "vistas": 691,
+   "vistas": 692,
    "artista": "Catalina Castaño",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -1549,7 +1560,7 @@
    "id": "czIsHmGdSH4",
    "titulo": "Snow Patrol - You're All I Have (Live)",
    "fecha": "2026-08-14",
-   "vistas": 15710,
+   "vistas": 15759,
    "artista": "Snow Patrol",
    "genero": "Pop / rock en inglés",
    "fuente": "rss",
@@ -1560,7 +1571,7 @@
    "id": "sfBtCTLFDTM",
    "titulo": "lil nas x - old town road ( slowed + reverb )",
    "fecha": "2026-08-01",
-   "vistas": 3038,
+   "vistas": 3061,
    "artista": "cozy sounds.",
    "genero": "Lo-fi / chill / sad rap",
    "fuente": "rss",
@@ -1571,7 +1582,7 @@
    "id": "WEuirnNoIhg",
    "titulo": "Profundo amor + Más de tí | Catalina Castaño ft. Miguel Ibañez",
    "fecha": "2026-07-31",
-   "vistas": 572,
+   "vistas": 576,
    "artista": "Catalina Castaño",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -1582,7 +1593,7 @@
    "id": "6kU6dy118jU",
    "titulo": "LLevame Al Primer Amor - Oasis Ministry (Living Room) | Letra",
    "fecha": "2026-07-30",
-   "vistas": 28105,
+   "vistas": 28168,
    "artista": "Cristianos Music Oficial",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -1593,7 +1604,7 @@
    "id": "f6ni9O3KG8w",
    "titulo": "Amores Extraños - Kevz (Cover Laura Pausini)",
    "fecha": "2026-07-28",
-   "vistas": 91403,
+   "vistas": 91899,
    "artista": "Kevin & Karla",
    "genero": "Música cristiana / worship",
    "fuente": "rss",
@@ -2024,7 +2035,7 @@
    "artista": "Canserbero",
    "genero": "Rap / hip hop en español",
    "veces": 2,
-   "canal": "El Canser - Topic"
+   "canal": "Canserbero - Topic"
   },
   {
    "id": "LrjUQxBnT4k",
@@ -2085,10 +2096,16 @@
  ],
  "tendencias_co": [
   {
-   "id": "GMn8tTGfSYs",
-   "titulo": "Marco Antonio Solís - Si No Te Hubieras Ido (Letra)",
+   "id": "12QNKcrTrnw",
+   "titulo": "Don Omar - Virtual Diva (Letra)",
    "pos": 1,
-   "canal": "Kintsugi Sonar"
+   "canal": "The Best Flow"
+  },
+  {
+   "id": "ygcH16d4v2w",
+   "titulo": "Avengers: Doomsday | Tráiler Oficial | Doblado",
+   "pos": 2,
+   "canal": "Marvel Latinoamérica Oficial"
   },
   {
    "id": "5WNr3Vmgq0A",
@@ -2097,136 +2114,88 @@
    "canal": "7clouds Spain"
   },
   {
-   "id": "9Sj7LDCrQxE",
-   "titulo": "José José — La Nave Del Olvido (Letra)",
+   "id": "ikS_lZ6l4e0",
+   "titulo": "Beéle - Quédate (Letra)",
    "pos": 7,
-   "canal": "Richie Classics"
+   "canal": "GroovLatn"
   },
   {
-   "id": "1lOvAvBlzSM",
-   "titulo": "Anuel AA | SE TOCO EL T*TITO CON MI GL*CK (Video Oficial)",
-   "pos": 9,
-   "canal": "Anuel AA"
+   "id": "VYXaavP-NFQ",
+   "titulo": "Don Omar - Dile (Letra) Old School Reggaeton",
+   "pos": 10,
+   "canal": "Amor Estelar"
   },
   {
-   "id": "_AYDlGIEEDE",
-   "titulo": "Eddie Santiago - Qué Locura Enamorarme De Ti (Letra)",
-   "pos": 11,
-   "canal": "Big Dance"
-  },
-  {
-   "id": "XMPtL5wfDuY",
-   "titulo": "Reik - Ya Me Enteré (Letra)",
+   "id": "cNexEfA9D8E",
+   "titulo": "Yandel - Encantadora ❤️ (Letra)",
    "pos": 13,
-   "canal": "Nación Mexa"
+   "canal": "FEDED Lyrics"
   },
   {
-   "id": "pi6yHNBAxk0",
-   "titulo": "Dame Hombro - Bulin 47 & Kevin Wai (Letra/Lyrics)",
-   "pos": 15,
-   "canal": "LatinNow"
+   "id": "AonkozLFWik",
+   "titulo": "Plan B - Candy (Letra)",
+   "pos": 16,
+   "canal": "need more"
   },
   {
-   "id": "SkHy2QTzvCg",
-   "titulo": "Christian Nodal, Ya No Somos Ni Seremos - (Letra/Lyrics)",
-   "pos": 17,
-   "canal": "Astro Monkey"
-  },
-  {
-   "id": "viUlWmaJn0U",
-   "titulo": "GTA 6 - NUEVAS AMISTADES! #5",
-   "pos": 18,
-   "canal": "VEGETTA777"
-  },
-  {
-   "id": "ijyZvwuzPxo",
-   "titulo": "Rauw Alejandro, Chencho Corleone - Desesperados (Letra/Lyrics)",
+   "id": "zXAsoHvFfIk",
+   "titulo": "Luis Fonsi - Despacito ft. Daddy Yankee (Letra/Lyrics)",
    "pos": 19,
-   "canal": "Phonk World"
+   "canal": "jostland."
   },
   {
-   "id": "b_-jDhNTLV4",
-   "titulo": "Farruko - Pepas (Letra/Lyrics)",
-   "pos": 21,
-   "canal": "c r x s ;"
-  },
-  {
-   "id": "N6AzI_oU6LE",
-   "titulo": "Myke Towers & Rauw Alejandro - TREMENDO DESASTRE (Official Music Video)",
+   "id": "GMn8tTGfSYs",
+   "titulo": "Marco Antonio Solís - Si No Te Hubieras Ido (Letra)",
    "pos": 22,
-   "canal": "Myke Towers"
-  },
-  {
-   "id": "tGcx59y7gxs",
-   "titulo": "Bronco - Que No Quede Huella (Letra)",
-   "pos": 24,
-   "canal": "LatinFest"
-  },
-  {
-   "id": "pbJsk5qp_uw",
-   "titulo": "Ana Gabriel - Soy Como Quise Ser | Letra",
-   "pos": 26,
-   "canal": "sunday"
-  },
-  {
-   "id": "kajwjHIQRPs",
-   "titulo": "Enrique Iglesias, Descemer Bueno, Gente De Zona - Bailando (Lyrics)",
-   "pos": 28,
-   "canal": "7clouds Tropical"
-  },
-  {
-   "id": "b09rjJIp-ng",
-   "titulo": "Marc Anthony - Y Hubo Alguien (Letra/Lyrics)",
-   "pos": 30,
-   "canal": "Love Trip"
-  },
-  {
-   "id": "YKk18j3Z330",
-   "titulo": "Christian Nodal – Ya No Somos Ni Seremos | LETRA",
-   "pos": 32,
-   "canal": "A Puro Regional"
-  },
-  {
-   "id": "AhXYFvnVlYM",
-   "titulo": "Ana Gabriel - No Te Hago Falta (Letra)",
-   "pos": 34,
-   "canal": "Hey!"
-  },
-  {
-   "id": "NE8jm894NrI",
-   "titulo": "Plan B - ¿por Que Te Demoras? (Letra/Lyrics)",
-   "pos": 36,
-   "canal": "Pulse Latin"
-  },
-  {
-   "id": "txdZ805O-Rg",
-   "titulo": "Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona (Letra)",
-   "pos": 38,
-   "canal": "Big Sound"
-  },
-  {
-   "id": "ri9_JhTHCqA",
-   "titulo": "Espinoza Paz - Que Te Lo Crea Tu Madre (Letra)",
-   "pos": 40,
-   "canal": "King Son"
-  },
-  {
-   "id": "RlrbWDrdW4Y",
-   "titulo": "Diomedes Díaz - Mi Ahijado (Letra)",
-   "pos": 42,
-   "canal": "Tropicalízate"
+   "canal": "Kintsugi Sonar"
   },
   {
    "id": "Yzgmf36Dxsc",
    "titulo": "Carin Leon - Desde Que Te Tengo (Letra)",
-   "pos": 44,
+   "pos": 25,
    "canal": "Pink Songs"
+  },
+  {
+   "id": "4iNzS7AiEXk",
+   "titulo": "Romeo Santos - Que Se Mueran (Letra)",
+   "pos": 28,
+   "canal": "extra Music"
+  },
+  {
+   "id": "AAttcmYuipU",
+   "titulo": "KAROL G & Greg Gonzalez - Después de ti (Letra/Lyrics)",
+   "pos": 31,
+   "canal": "Caguama"
+  },
+  {
+   "id": "qJMRRRL-TDg",
+   "titulo": "KAROL G, Greg Gonzalez - Después de ti (Letra)",
+   "pos": 34,
+   "canal": "LowDrow"
+  },
+  {
+   "id": "_AYDlGIEEDE",
+   "titulo": "Eddie Santiago - Qué Locura Enamorarme De Ti (Letra)",
+   "pos": 37,
+   "canal": "Big Dance"
+  },
+  {
+   "id": "qZH7WNZJ5ko",
+   "titulo": "KAROL G, Judeline, rusowsky - BbY WOW (Letra/Lyrics)",
+   "pos": 40,
+   "canal": "Rap World"
   },
   {
    "id": "FdEXO756n7g",
    "titulo": "Reik - Ya Me Enteré (LYRICS)",
-   "pos": 46,
+   "pos": 45,
    "canal": "Pop Culture"
+  },
+  {
+   "id": "jYhgH5OLmss",
+   "titulo": "Nicky Jam, Enrique Iglesias - El Perdón (Letra)",
+   "pos": 48,
+   "canal": "GOD LYRICS"
   }
  ],
  "lo_mas_visto_hispano": [
@@ -2261,14 +2230,14 @@
    "canal": "KarolGVEVO"
   },
   {
-   "id": "vutbVGewIcg",
-   "titulo": "Anuel AA - Las Mas Bonitas Son P*tas (Video Oficial)",
+   "id": "3juuih0WdH8",
+   "titulo": "Anuel AA - Vuelve (Video Oficial)",
    "pos": 6,
    "canal": "Anuel AA"
   },
   {
-   "id": "3juuih0WdH8",
-   "titulo": "Anuel AA - Vuelve (Video Oficial)",
+   "id": "vutbVGewIcg",
+   "titulo": "Anuel AA - Las Mas Bonitas Son P*tas (Video Oficial)",
    "pos": 7,
    "canal": "Anuel AA"
   },
@@ -2279,82 +2248,82 @@
    "canal": "FUERZA REGIDA"
   },
   {
-   "id": "Vr1M_l-1wjc",
-   "titulo": "Grupo Frontera x Grupo Firme - EL AMOR DE SU VIDA (Video Oficial)",
-   "pos": 9,
-   "canal": "Grupo Frontera"
-  },
-  {
-   "id": "pRpeEdMmmQ0",
-   "titulo": "Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)",
-   "pos": 10,
-   "canal": "shakiraVEVO"
-  },
-  {
    "id": "kJQP7kiw5Fk",
    "titulo": "Luis Fonsi - Despacito ft. Daddy Yankee",
-   "pos": 11,
+   "pos": 9,
    "canal": "LuisFonsiVEVO"
-  },
-  {
-   "id": "iIgsCYgo5P4",
-   "titulo": "Grupo Firme - El Beneficio De La Duda (Video Oficial)",
-   "pos": 12,
-   "canal": "Grupo Firme"
   },
   {
    "id": "cgEnBkmcpuQ",
    "titulo": "CantaJuego - Soy Una Taza (Version Mexico)",
-   "pos": 13,
+   "pos": 10,
    "canal": "CantaJuegoVEVO"
+  },
+  {
+   "id": "pRpeEdMmmQ0",
+   "titulo": "Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)",
+   "pos": 11,
+   "canal": "shakiraVEVO"
+  },
+  {
+   "id": "Vr1M_l-1wjc",
+   "titulo": "Grupo Frontera x Grupo Firme - EL AMOR DE SU VIDA (Video Oficial)",
+   "pos": 12,
+   "canal": "Grupo Frontera"
   },
   {
    "id": "a1Femq4NPxs",
    "titulo": "BAD BUNNY - BAILE INoLVIDABLE (Video Oficial) | DeBÍ TiRAR MáS FOToS",
-   "pos": 14,
+   "pos": 13,
    "canal": "Bad Bunny"
+  },
+  {
+   "id": "Hz9lhqxl_gQ",
+   "titulo": "Romeo Santos - La Diabla/Mi Santa (Official Video) ft. Tomatito",
+   "pos": 14,
+   "canal": "RomeoSantosVEVO"
+  },
+  {
+   "id": "iIgsCYgo5P4",
+   "titulo": "Grupo Firme - El Beneficio De La Duda (Video Oficial)",
+   "pos": 15,
+   "canal": "Grupo Firme"
   },
   {
    "id": "5j8fIDh1V0A",
    "titulo": "Myke Towers - TE IMAGINO (Official Music Video)",
-   "pos": 15,
+   "pos": 16,
    "canal": "Myke Towers"
+  },
+  {
+   "id": "DUT5rEU6pqM",
+   "titulo": "Shakira - Hips Don't Lie (featuring Wyclef Jean) (Official 4K Video) ft. Wyclef Jean",
+   "pos": 17,
+   "canal": "shakiraVEVO"
+  },
+  {
+   "id": "mhHqonzsuoA",
+   "titulo": "Romeo Santos - Imitadora (Official Lyric Video)",
+   "pos": 18,
+   "canal": "RomeoSantosVEVO"
   },
   {
    "id": "MYFFA242azM",
    "titulo": "Natanael Cano x Tito Double P x Victor Mendivil x Ovi - OLIVIA LA FLAKA [Oficial Video]",
-   "pos": 16,
+   "pos": 19,
    "canal": "Natanael Cano"
   },
   {
    "id": "XO1h5G6xytU",
    "titulo": "Daddy Yankee and Diljit Dosanjh - POKITO  (Official Music Video)",
-   "pos": 17,
+   "pos": 20,
    "canal": "Daddy Yankee"
   },
   {
-   "id": "DUT5rEU6pqM",
-   "titulo": "Shakira - Hips Don't Lie (featuring Wyclef Jean) (Official 4K Video) ft. Wyclef Jean",
-   "pos": 18,
-   "canal": "shakiraVEVO"
-  },
-  {
-   "id": "FT8HG4EOn9o",
-   "titulo": "Maná & Alejandro Fernández - Mariposa Traicionera (Video Oficial)",
-   "pos": 19,
-   "canal": "OficialMana"
-  },
-  {
-   "id": "Hz9lhqxl_gQ",
-   "titulo": "Romeo Santos - La Diabla/Mi Santa (Official Video) ft. Tomatito",
-   "pos": 20,
-   "canal": "RomeoSantosVEVO"
-  },
-  {
-   "id": "mhHqonzsuoA",
-   "titulo": "Romeo Santos - Imitadora (Official Lyric Video)",
+   "id": "nYnLVWXmRm8",
+   "titulo": "La Oreja de Van Gogh - Rosas (Vídeo Oficial)",
    "pos": 21,
-   "canal": "RomeoSantosVEVO"
+   "canal": "LODVGVEVO"
   },
   {
    "id": "v96NmVBbqGY",
@@ -2363,34 +2332,34 @@
    "canal": "edenmunozVEVO"
   },
   {
+   "id": "lRWqYR3e7xE",
+   "titulo": "Don Omar - Taboo",
+   "pos": 23,
+   "canal": "DonOmarVEVO"
+  },
+  {
    "id": "ca48oMV59LU",
    "titulo": "KAROL G - Provenza (Official Video)",
-   "pos": 23,
+   "pos": 24,
    "canal": "KarolGVEVO"
   },
   {
-   "id": "k76BgIb89-s",
-   "titulo": "Los Ángeles Azules - Nunca Es Suficiente ft. Natalia Lafourcade (Live)",
-   "pos": 24,
-   "canal": "LosAngelesAzulesVEVO"
-  },
-  {
-   "id": "rCL8-CiGSmc",
-   "titulo": "Hollywood - Peso Pluma, Estevan Plazola (Video Oficial)",
+   "id": "FT8HG4EOn9o",
+   "titulo": "Maná & Alejandro Fernández - Mariposa Traicionera (Video Oficial)",
    "pos": 25,
-   "canal": "Peso Pluma"
+   "canal": "OficialMana"
   },
   {
-   "id": "lRWqYR3e7xE",
-   "titulo": "Don Omar - Taboo",
+   "id": "ja240-bp8eQ",
+   "titulo": "Don Omar - Dile (Visualizer)",
    "pos": 26,
    "canal": "DonOmarVEVO"
   },
   {
-   "id": "zcq7khV_jDQ",
-   "titulo": "Calibre 50 - Si Te Pudiera Mentir (LETRA)",
+   "id": "rCL8-CiGSmc",
+   "titulo": "Hollywood - Peso Pluma, Estevan Plazola (Video Oficial)",
    "pos": 27,
-   "canal": "CalibreCincuentaVEVO"
+   "canal": "Peso Pluma"
   },
   {
    "id": "5R1RGl4WQP8",
@@ -2399,94 +2368,94 @@
    "canal": "MonLaferteVEVO"
   },
   {
-   "id": "nYnLVWXmRm8",
-   "titulo": "La Oreja de Van Gogh - Rosas (Vídeo Oficial)",
-   "pos": 29,
-   "canal": "LODVGVEVO"
-  },
-  {
    "id": "VRUjdlCynU0",
    "titulo": "Arcángel, Sech - Sigues Con Él (Video Oficial)",
-   "pos": 30,
+   "pos": 29,
    "canal": "Arcangel"
   },
   {
    "id": "dsLjyLn859g",
    "titulo": "Chayanne - Bailando Bachata (Official Video)",
-   "pos": 31,
+   "pos": 30,
    "canal": "chayanneVEVO"
-  },
-  {
-   "id": "ja240-bp8eQ",
-   "titulo": "Don Omar - Dile (Visualizer)",
-   "pos": 32,
-   "canal": "DonOmarVEVO"
-  },
-  {
-   "id": "gFZfwWZV074",
-   "titulo": "Anuel AA, KAROL G - Secreto",
-   "pos": 33,
-   "canal": "AnuelVEVO"
   },
   {
    "id": "nNUiVCKu_9Y",
    "titulo": "Grupo Frontera, Fuerza Regida - COQUETA (Letra Oficial)",
-   "pos": 34,
+   "pos": 31,
    "canal": "FUERZA REGIDA"
   },
   {
    "id": "xCkf2L7gFnI",
    "titulo": "Jay Wheeler, Omar Courtz - De Lejitos (Remix) (Video Oficial)",
-   "pos": 35,
+   "pos": 32,
    "canal": "JayWheelerVEVO"
-  },
-  {
-   "id": "8c7KOGxeY3w",
-   "titulo": "Becky G - POR EL CONTRARIO (Performance Video) ft. Ángela Aguilar, Leonardo Aguilar",
-   "pos": 36,
-   "canal": "BeckyGVEVO"
-  },
-  {
-   "id": "NUsoVlDFqZg",
-   "titulo": "Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona",
-   "pos": 37,
-   "canal": "EnriqueIglesiasVEVO"
-  },
-  {
-   "id": "DiItGE3eAyQ",
-   "titulo": "Daddy Yankee & Snow - Con Calma (Video Oficial)",
-   "pos": 38,
-   "canal": "Daddy Yankee"
-  },
-  {
-   "id": "3mchJ-EW9rM",
-   "titulo": "Yng Lvcas & Peso Pluma - La Bebe (Remix) [Video Oficial]",
-   "pos": 39,
-   "canal": "Yng Lvcas"
-  },
-  {
-   "id": "02l4pkVdBug",
-   "titulo": "Fuerza Regida - CAPERUZA (VIDEO OFICIAL)",
-   "pos": 40,
-   "canal": "FUERZA REGIDA"
-  },
-  {
-   "id": "isVVGW7MBas",
-   "titulo": "Grupo Firme - Al Final Del Día (Video Oficial)",
-   "pos": 41,
-   "canal": "Grupo Firme"
   },
   {
    "id": "jZGpkLElSu8",
    "titulo": "KAROL G, Shakira - TQG (Official Video)",
-   "pos": 42,
+   "pos": 33,
    "canal": "KarolGVEVO"
   },
   {
-   "id": "3inw26U-os4",
-   "titulo": "Grupo Frontera x Bad Bunny - UN X100TO (Video Oficial)",
+   "id": "8c7KOGxeY3w",
+   "titulo": "Becky G - POR EL CONTRARIO (Performance Video) ft. Ángela Aguilar, Leonardo Aguilar",
+   "pos": 34,
+   "canal": "BeckyGVEVO"
+  },
+  {
+   "id": "Lg_Pn45gyMs",
+   "titulo": "Aventura - Ella y Yo (ft. Don Omar)",
+   "pos": 35,
+   "canal": "Aventura"
+  },
+  {
+   "id": "02l4pkVdBug",
+   "titulo": "Fuerza Regida - CAPERUZA (VIDEO OFICIAL)",
+   "pos": 36,
+   "canal": "FUERZA REGIDA"
+  },
+  {
+   "id": "wAjHQXrIj9o",
+   "titulo": "Bad Bunny ft. Bomba Estéreo - Ojitos Lindos (Video Oficial) | Un Verano Sin Ti",
+   "pos": 37,
+   "canal": "Bad Bunny"
+  },
+  {
+   "id": "gFZfwWZV074",
+   "titulo": "Anuel AA, KAROL G - Secreto",
+   "pos": 38,
+   "canal": "AnuelVEVO"
+  },
+  {
+   "id": "wnJ6LuUFpMo",
+   "titulo": "J Balvin, Willy William - Mi Gente (Official Video)",
+   "pos": 39,
+   "canal": "jbalvinVEVO"
+  },
+  {
+   "id": "NUsoVlDFqZg",
+   "titulo": "Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona",
+   "pos": 40,
+   "canal": "EnriqueIglesiasVEVO"
+  },
+  {
+   "id": "rHpAXvqDzYY",
+   "titulo": "BLESSD ❌ ANUEL AA | CAPCANA COCOA (Video Oficial)",
+   "pos": 41,
+   "canal": "SIEMPRE BLESSD 💙"
+  },
+  {
+   "id": "zcq7khV_jDQ",
+   "titulo": "Calibre 50 - Si Te Pudiera Mentir (LETRA)",
+   "pos": 42,
+   "canal": "CalibreCincuentaVEVO"
+  },
+  {
+   "id": "w2C6RhQBYlg",
+   "titulo": "Jhay Cortez, J. Balvin, Bad Bunny - No Me Conoce (Remix)",
    "pos": 43,
-   "canal": "Grupo Frontera"
+   "canal": "JhayCortezVEVO"
   },
   {
    "id": "UWV41yEiGq0",
@@ -2495,100 +2464,100 @@
    "canal": "Hear This Music"
   },
   {
-   "id": "rHpAXvqDzYY",
-   "titulo": "BLESSD ❌ ANUEL AA | CAPCANA COCOA (Video Oficial)",
+   "id": "isVVGW7MBas",
+   "titulo": "Grupo Firme - Al Final Del Día (Video Oficial)",
    "pos": 45,
-   "canal": "SIEMPRE BLESSD 💙"
-  },
-  {
-   "id": "wnJ6LuUFpMo",
-   "titulo": "J Balvin, Willy William - Mi Gente (Official Video)",
-   "pos": 46,
-   "canal": "jbalvinVEVO"
-  },
-  {
-   "id": "Lg_Pn45gyMs",
-   "titulo": "Aventura - Ella y Yo (ft. Don Omar)",
-   "pos": 47,
-   "canal": "Aventura"
-  },
-  {
-   "id": "F5kR7mLrX3w",
-   "titulo": "Fuerza Regida - EXCESOS [Video Oficial]",
-   "pos": 48,
-   "canal": "FUERZA REGIDA"
-  },
-  {
-   "id": "gG3516BF5_w",
-   "titulo": "Carin Leon x Grupo Frontera - QUE VUELVAS (Video Oficial)",
-   "pos": 49,
-   "canal": "Grupo Frontera"
-  },
-  {
-   "id": "qkXIRZKSQ3k",
-   "titulo": "NUEVA VIDA (Lyric Video) - Peso Pluma",
-   "pos": 50,
-   "canal": "Peso Pluma"
-  },
-  {
-   "id": "EochZ-iyrqQ",
-   "titulo": "Ryan Castro, Kapo, Gangsta - LA VILLA (Video Oficial) | HOPI SENDÉ",
-   "pos": 51,
-   "canal": "Ryan Castro"
-  },
-  {
-   "id": "1_zgKRBrT0Y",
-   "titulo": "Pedro Capó, Farruko - Calma (Remix - Official Video)",
-   "pos": 52,
-   "canal": "capoVEVO"
-  },
-  {
-   "id": "6Mgqbai3fKo",
-   "titulo": "Shakira - Chantaje (Official Video) ft. Maluma",
-   "pos": 53,
-   "canal": "shakiraVEVO"
-  },
-  {
-   "id": "_Jad5guA7jQ",
-   "titulo": "Grupo Firme - Herencia de Grandes - Amor De Antes (Video Oficial)",
-   "pos": 54,
    "canal": "Grupo Firme"
   },
   {
-   "id": "TmKh7lAwnBI",
-   "titulo": "BAD BUNNY x JHAY CORTEZ - DÁKITI (Video Oficial)",
-   "pos": 55,
-   "canal": "Bad Bunny"
+   "id": "OdaIbTUGmHM",
+   "titulo": "Prince Royce - La Carretera (Official Video)",
+   "pos": 46,
+   "canal": "PrinceRoyceVEVO"
   },
   {
    "id": "vpD_EvXiGQ4",
    "titulo": "Rauw Alejandro & Chencho Corleone - El Efecto (Video Oficial)",
-   "pos": 56,
+   "pos": 47,
    "canal": "Rauw Alejandro"
   },
   {
    "id": "p38WgakuYDo",
    "titulo": "Bad Bunny - Moscow Mule (Video Oficial) | Un Verano Sin Ti",
-   "pos": 57,
+   "pos": 48,
    "canal": "Bad Bunny"
   },
   {
-   "id": "wAjHQXrIj9o",
-   "titulo": "Bad Bunny ft. Bomba Estéreo - Ojitos Lindos (Video Oficial) | Un Verano Sin Ti",
-   "pos": 58,
-   "canal": "Bad Bunny"
-  },
-  {
-   "id": "UStUu4Ew3SU",
-   "titulo": "Fuerza Regida - ANSIEDAD (VIDEO OFICIAL)",
-   "pos": 59,
+   "id": "F5kR7mLrX3w",
+   "titulo": "Fuerza Regida - EXCESOS [Video Oficial]",
+   "pos": 49,
    "canal": "FUERZA REGIDA"
   },
   {
-   "id": "w2C6RhQBYlg",
-   "titulo": "Jhay Cortez, J. Balvin, Bad Bunny - No Me Conoce (Remix)",
+   "id": "d80h0xmEjbI",
+   "titulo": "CantaJuego - El Baile del Gorila",
+   "pos": 50,
+   "canal": "CantaJuegoVEVO"
+  },
+  {
+   "id": "DiItGE3eAyQ",
+   "titulo": "Daddy Yankee & Snow - Con Calma (Video Oficial)",
+   "pos": 51,
+   "canal": "Daddy Yankee"
+  },
+  {
+   "id": "_Jad5guA7jQ",
+   "titulo": "Grupo Firme - Herencia de Grandes - Amor De Antes (Video Oficial)",
+   "pos": 52,
+   "canal": "Grupo Firme"
+  },
+  {
+   "id": "6W4L2O-JQ-w",
+   "titulo": "Zoé - Luna (MTV Unplugged)",
+   "pos": 53,
+   "canal": "ZoeVEVO"
+  },
+  {
+   "id": "3mchJ-EW9rM",
+   "titulo": "Yng Lvcas & Peso Pluma - La Bebe (Remix) [Video Oficial]",
+   "pos": 54,
+   "canal": "Yng Lvcas"
+  },
+  {
+   "id": "13m9v78uNJk",
+   "titulo": "Mon Laferte - Mi Buen Amor ft. Enrique Bunbury",
+   "pos": 55,
+   "canal": "MonLaferteVEVO"
+  },
+  {
+   "id": "k76BgIb89-s",
+   "titulo": "Los Ángeles Azules - Nunca Es Suficiente ft. Natalia Lafourcade (Live)",
+   "pos": 56,
+   "canal": "LosAngelesAzulesVEVO"
+  },
+  {
+   "id": "1_zgKRBrT0Y",
+   "titulo": "Pedro Capó, Farruko - Calma (Remix - Official Video)",
+   "pos": 57,
+   "canal": "capoVEVO"
+  },
+  {
+   "id": "3inw26U-os4",
+   "titulo": "Grupo Frontera x Bad Bunny - UN X100TO (Video Oficial)",
+   "pos": 58,
+   "canal": "Grupo Frontera"
+  },
+  {
+   "id": "6Mgqbai3fKo",
+   "titulo": "Shakira - Chantaje (Official Video) ft. Maluma",
+   "pos": 59,
+   "canal": "shakiraVEVO"
+  },
+  {
+   "id": "qkXIRZKSQ3k",
+   "titulo": "NUEVA VIDA (Lyric Video) - Peso Pluma",
    "pos": 60,
-   "canal": "JhayCortezVEVO"
+   "canal": "Peso Pluma"
   }
  ],
  "chart_semanal_co": [
@@ -2645,7 +2614,7 @@
   {
    "pos": 11,
    "titulo": "Blessd - WINDOW SHOPPER",
-   "id": null
+   "id": "--NSkksdvV0"
   },
   {
    "pos": 12,
@@ -2844,22 +2813,22 @@
   }
  ],
  "stats": {
-  "videos_verificados": 298,
+  "videos_verificados": 293,
   "descartados_oembed": 0,
   "sin_verificar_por_error_red": 0,
   "novedades_por_fuente": {
-   "rss": 115
+   "rss": 116
   },
-  "segundos": 5.4,
+  "segundos": 5.3,
   "avisos": [
-   "sin datos: Elevation Worship (UCSf-NCzjwcnXErUBW_qeFvA)",
    "sin datos: Them & I (UCa0PAgZ4tHl-XQXWRA8bGwg)",
+   "sin datos: Elevation Worship (UCSf-NCzjwcnXErUBW_qeFvA)",
    "sin datos: Cemeteries (UCmJc--j9kQd83S0azxFnG6g)",
    "sin datos: Rxseboy (UCx4K56ccgugBVZPxxeFhq8w)",
-   "sin datos: Porta (UCjyx5ROt2HsFf-e4Qt5LAhg)",
-   "sin datos: Gateway Worship Español (UCvZgp9cvnS3P_T7KsfrgOyg)",
    "sin datos: Genesis Benavides (UCnQTtadDaCkoJMEa3PucE8Q)",
-   "sin datos: Tercer Cielo (UCpjVUrVVNPxFegat_FxrxCw)"
+   "sin datos: Porta (UCjyx5ROt2HsFf-e4Qt5LAhg)",
+   "sin datos: Tercer Cielo (UCpjVUrVVNPxFegat_FxrxCw)",
+   "sin datos: Gateway Worship Español (UCvZgp9cvnS3P_T7KsfrgOyg)"
   ],
   "conservadas_de_la_version_anterior": []
  }
